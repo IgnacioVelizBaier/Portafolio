@@ -1,0 +1,6 @@
+Descomprimir y ejecutar "Donkey King alpha.exe"
+
+Controles: W,A,S,D para desplazarse
+Espacio: para saltar
+Click derecho: movimiento acelerado
+click izquierdo: destruir obstáculos

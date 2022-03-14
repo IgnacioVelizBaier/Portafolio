@@ -1,0 +1,5 @@
+Aplicación que funciona desde un navegador (idealmente firefox)
+link: https://simmer.io/@CrimsonEldritch/zodiac-clock-38
+Permite mover los elementos 2D, así como ocultar y mostrar varios elementos de la interfaz
+Permite mover, rotar y escalar elementos 3D, así como renombrarlos, cambiar la animación de estos y cambiar
+la perspectiva a "primera persona".
