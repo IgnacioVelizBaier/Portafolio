@@ -1,0 +1,5 @@
+Ejecutar “Lightweight RP test”
+Usar arma: Click izquierdo
+Movimiento acelerado: Click derecho
+Salto: Espacio
+Rotar cámara: Q,R, desplazar mouse a los extremos de la pantalla

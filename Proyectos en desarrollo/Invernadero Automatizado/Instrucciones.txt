@@ -1,0 +1,7 @@
+Simulador de un invernadero automatizado, siento un apoyo visual e interactivo para el proyecto integrado final de la carrera.
+
+Ejecutar “Pif invernadero automatizado.exe”
+Movimiento: W,A,S,D
+Interactuar con la puerta: “P”
+Interactuar con la ventana: “L”
+Rotación de vista: mouse

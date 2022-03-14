@@ -1,0 +1,9 @@
+La siguiente aplicación muestra un proyecto que va avanzando en complejidad técnica de desarrollo por cada etapa que es completada.
+Ejecutar “Taller de desarrollo de videojuegos.exe”
+Usar arma: Click izquierdo
+Movimiento acelerado: Click derecho
+Salto: Espacio
+Recarga: R
+Intercambiar arma 1,2
+Correr: Shift
+Caminar: CTRL izquierdo

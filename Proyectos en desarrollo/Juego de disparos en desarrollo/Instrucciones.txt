@@ -1,0 +1,7 @@
+Ejecutar “Shot Kai.exe”
+Usar arma: Click izquierdo
+Correr: Shift
+Caminar: CTRL derecho
+Movimiento acelerado: Click derecho
+Intercambiar armas: 1,2,3
+Solicitar recarga (sólo arma que no se esté utilizando): R

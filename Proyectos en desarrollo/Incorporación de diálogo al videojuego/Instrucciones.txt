@@ -1,0 +1,6 @@
+Ejecutar “Lightweight RP test.exe”
+Avanzar al siguiente diálogo: F
+Minimizar ventanilla: C
+Correr: Shift
+Caminar: CTRL derecho
+Interactuar con obstáculos: Click izquierdo
