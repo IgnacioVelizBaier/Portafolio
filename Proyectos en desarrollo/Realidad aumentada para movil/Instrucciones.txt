@@ -1,0 +1,3 @@
+Instalar la aplicación en el teléfono celular
+Se podrán visualizar los animales de criadero
+Al escanear el código QR aparecerán semillas en pantalla en la posición de este código
