@@ -11,7 +11,7 @@
 
 - 📫 How to contact me: **ignacioveli99@gmail.com**
 
-  ![portafolio-presentacion]([https://user-images.githubusercontent.com/110046283/202334878-7ce721f1-db39-4388-bc39-8f9d141015a3.png](https://github.com/IgnacioVelizBaier/Portafolio/blob/main/qzeDLn.png))
+![portafolio-presentacion](https://github.com/IgnacioVelizBaier/Portafolio/blob/main/qzeDLn.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
