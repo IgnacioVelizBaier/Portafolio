@@ -3,7 +3,7 @@
 
 ![portafolio-presentacion](https://github.com/IgnacioVelizBaier/Portafolio/blob/main/qzeDLn.png)
 
-<h3 align="left">👨‍💻 All of my projects are available [**HERE**](https://IgnacioVelizBaier.github.io/Portafolio/)</h3>
+<h3 align="left">👨‍💻 All of my projects are available at </h3> [**My web repository**](https://IgnacioVelizBaier.github.io/Portafolio/)
 
 - 👨‍💻 All of my projects are available [**HERE**](https://IgnacioVelizBaier.github.io/Portafolio/)
 
