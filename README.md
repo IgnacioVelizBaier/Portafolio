@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ignacio Véliz Baier</h1>
 <h3 align="center">An enthusiastic Unity apps and games developer from Chile</h3>
 
-<p align="center">
-  <img src="https://github.com/IgnacioVelizBaier/Portafolio/raw/main/qzeDLn.png" width="683" height="384" />
-</p>
+<img src="https://github.com/IgnacioVelizBaier/Portafolio/raw/main/qzeDLn.png" width="683" height="384" />
 
 <h2 align="left">👨‍💻 All of my projects are available at </h2> 
 
