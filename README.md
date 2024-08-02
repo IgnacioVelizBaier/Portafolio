@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Planner with software Primavera P6**
 
-- 👯 I’m looking to collaborate on **Particular projects**
+- 👯 I’m looking to collaborate on **Custom projects on request**
 
 - 👨‍💻 All of my projects are available at https://IgnacioVelizBaier.github.io/Portafolio/
 
