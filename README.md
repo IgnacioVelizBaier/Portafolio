@@ -36,8 +36,6 @@
 &nbsp; o &#160;
 &nbsp; o &#160;
 &nbsp; o &#160;
-&nbsp; o &#160;
-&nbsp; o &#160;
 
 <br>
 
