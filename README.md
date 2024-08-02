@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ignacio Véliz Baier</h1>
 <h3 align="center">An enthusiastic Unity apps and games developer from Chile</h3>
 
+![portafolio-presentacion](https://github.com/IgnacioVelizBaier/Portafolio/blob/main/qzeDLn.png)
+
 - 👨‍💻 All of my projects are available [**HERE**](https://IgnacioVelizBaier.github.io/Portafolio/)
 
 - 🔭 I’m currently working on **Planner with software Primavera P6**
@@ -10,8 +12,6 @@
 - 💬 Ask me about **apps and games on demand**
 
 - 📫 How to contact me: **ignacioveli99@gmail.com**
-
-![portafolio-presentacion](https://github.com/IgnacioVelizBaier/Portafolio/blob/main/qzeDLn.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
