@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ignacio Véliz Baier</h1>
 <h3 align="center">An enthusiastic Unity apps and games developer from Chile</h3>
 
+- 👨‍💻 All of my projects are available [**HERE**](https://IgnacioVelizBaier.github.io/Portafolio/)
+
 - 🔭 I’m currently working on **Planner with software Primavera P6**
 
 - 👯 I’m looking to collaborate on **Custom projects on request**
-
-- 👨‍💻 All of my projects are available at https://IgnacioVelizBaier.github.io/Portafolio/
 
 - 💬 Ask me about **apps and games on demand**
 
