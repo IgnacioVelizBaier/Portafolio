@@ -7,7 +7,7 @@
 
 -[**My web repository**](https://IgnacioVelizBaier.github.io/Portafolio/)
 
-
+ <br>
 &nbsp; o &#160;
 &nbsp; o &#160;
 &nbsp; o &#160;
@@ -17,6 +17,25 @@
 &nbsp; o &#160;
 &nbsp; o &#160;
 &nbsp; o &#160;
+&nbsp; o &#160;
+&nbsp; o &#160;
+&nbsp; o &#160;
+&nbsp; o &#160;
+&nbsp; o &#160;
+&nbsp; o &#160;
+&nbsp; o &#160;
+&nbsp; o &#160;
+&nbsp; o &#160;
+&nbsp; o &#160;
+&nbsp; o &#160;
+&nbsp; o &#160;
+&nbsp; o &#160;
+&nbsp; o &#160;
+&nbsp; o &#160;
+&nbsp; o &#160;
+&nbsp; o &#160;
+&nbsp; o &#160;
+ <br>
 
 <h3 align="left">About me: </h3>
 - 🔭 I’m currently working on **Planner with software Primavera P6**
