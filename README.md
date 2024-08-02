@@ -7,7 +7,7 @@
 
 <br>
 
--[**My web repository**](https://IgnacioVelizBaier.github.io/Portafolio/)
+-[*My web repository*](https://IgnacioVelizBaier.github.io/Portafolio/)
 
 <br>
 &nbsp; o &#160;
