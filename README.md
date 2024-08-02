@@ -9,11 +9,7 @@
 
 -[**My web repository**](https://IgnacioVelizBaier.github.io/Portafolio/)
 
- <br>
-&nbsp; o &#160;
-&nbsp; o &#160;
-&nbsp; o &#160;
-&nbsp; o &#160;
+<br>
 &nbsp; o &#160;
 &nbsp; o &#160;
 &nbsp; o &#160;
