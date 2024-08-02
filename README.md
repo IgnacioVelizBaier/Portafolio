@@ -42,6 +42,7 @@
 <br>
 
 <h3 align="left">About me: </h3>
+
 - 🔭 I’m currently working on **Planner with software Primavera P6**
 
 - 👯 I’m looking to collaborate on **Custom projects on request**
