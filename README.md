@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Particular projects**
 
-- 👨‍💻 All of my projects are available at https://nomadst.github.io/Portafolio/
+- 👨‍💻 All of my projects are available at https://IgnacioVelizBaier.github.io/Portafolio/
 
 - 💬 Ask me about **apps and games on demand**
 
