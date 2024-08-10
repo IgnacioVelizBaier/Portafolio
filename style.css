@@ -63,16 +63,73 @@ z-index: 100;
     background-size: cover;
 }
 
-.title{
+.title{/*Títulos*/
     margin-bottom: 40px;
     font-size:60px;
     font-weight:600;
     text-transform: uppercase;
+    color: #b96363;
 }
 
-p {
+p {/*texto común entre los headers*/
     margin-bottom: 40px;
     font-size:18px;
+    color: #ffffff;
+    padding: 0 100px;/*añade margenes a los costados*/
+}
+
+
+.container_btn--proyectos {
+    display: flex;
+    justify-content: center;
+}
+
+.container_btn--proyectos button {
+    width: auto;
+    padding-left: 3.5rem;
+    padding-right: 3.5rem;
+}
+
+.container_btn--proyectos a{
+    text-decoration: none;
+    display: inline-block;
+    margin: 0 1.5rem;
+}
+
+.container_btn--proyectos button {
+    border-radius: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 15.8rem;
+    letter-spacing: .1rem;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.container_btn--proyectos .btn_demo:hover {
+    background: #776254;
+    box-shadow: 0px 13px 33px -14px rgba(0,0,0,0.75);
+    transition: all .4s ease;
+}
+
+.container_btn--proyectos .btn_repo:hover {
+    background: var(--black);
+    box-shadow: 0px 13px 33px -14px rgba(0,0,0,0.75);
+    transition: all .4s ease;
+}
+
+.container_btn--proyectos a {
+    text-decoration: none;
+    display: inline-block;
+    margin: 0 1.5rem;
+}
+
+.btn_repo {
+    padding: .8rem 0;
+    background: none;
+    color: var(--beaver);
+    border: 1px solid var(--beaver);
 }
 
 .btn {
@@ -83,4 +140,100 @@ p {
     color:#fff;
     text-decoration: none;
     background: #d90000;
+}
+
+
+
+.btn:hover {
+    background: none; /*relleno de los botones será vacío, sólo quedará borde externo*/
+}
+
+.btn-home{
+    display: flex;
+}
+
+.btn-home a{
+    margin: 0 10px; /*distancia entre botones*/
+}
+
+.content{
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.sau{/*Bloque que contiene h2 productos y boxes*/
+    padding: 30px;
+    background: #1f1d1d;
+}
+
+.box-container{
+    display: flex;
+    justify-content: center;/*dispone las boxes de izquierda a derecha en vez de arriba a abajo*/
+    flex-wrap: wrap;/*las reordena según se achica la pantalla*/
+    text-align: center;
+}
+
+.box-container .box{
+    height: 11rem;
+    width: 25rem;/*Distancias horizontal entre los boxes*/
+    background: #101010;
+    text-align: center;
+    border-radius: Iren;
+    box-shadow: 0 .3ren Sren rgba(0,0,0, .5);
+    margin: 2rem;
+}
+
+/*.box-container .box i {/*Específico de la biblioteca para darle un fondo circular a los íconos*/
+    /*height: 3rem;
+    width: 3rem;
+    line-height: 3rem;
+    text-align: center;
+    border-radius: 50%;
+    color: #fff;
+    background: #d90000;
+    font-size: 2rem;
+    margin: 1rem 0;
+}
+*/
+.box-container .box h3{/*título de las cajas*/
+    font-size: 30px;
+    color: #d90000;
+}
+
+.box-container .box p{/*título de las cajas*/
+    padding: 0 15px;
+    font-size: 16px;
+}
+
+.about{
+    background: #171717;
+}
+
+.price{
+    background: url(img/header.png) no-repeat center;
+    background-attachment: fixed;/*permite desplazamiento con el scroll*/
+    background-size:cover;
+    text-align: center;
+}
+
+.contact{
+    padding-top: 80px;
+    background: #171717;
+    padding-bottom: 0;
+}
+
+@media (max-width: 768px) {
+    .title{
+        margin-bottom: 0;
+        font-size: 40px;
+    }
+    .sau{
+        height: 120vh;
+    }
+    .navbar{
+        display: none;
+    }
 }
