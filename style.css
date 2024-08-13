@@ -16,7 +16,7 @@ display: flex;
 align-items: center;
 justify-content: space-between;
 height: 63px;
-background: #171717;
+background: #343434;
 position: fixed;
 width: 100%;
 z-index: 100;
@@ -200,6 +200,7 @@ p {/*texto común entre los headers*/
     padding: 0px;
     background: #252525;
     margin-top: 0px;/*Permite ajustar esta sección de modo que las cajas atraviesen secciones de 2 colores de background distintos entre sí*/
+    padding-bottom: 150px /* Utilizamos relleno en lugar de margen */
 }
 
 .box-container{
@@ -232,7 +233,15 @@ p {/*texto común entre los headers*/
 .about{
     background: #171717;
     padding: 80px;
-    padding-bottom: 250px /* Utilizamos relleno en lugar de margen */
+    padding-bottom: 300px /* Utilizamos relleno en lugar de margen */
+}
+
+.flextext{
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-left: 0;
+    padding-right: 0;
 }
 
 .flexdis{
@@ -245,7 +254,8 @@ p {/*texto común entre los headers*/
 .AboutMe{
     margin-top: -100px;
     margin-left: 150px; /* Espacio entre la imagen y el texto */
-    width: 350px;
+    width: auto;
+    height: 400px;
 }
 
 .tech{
@@ -262,8 +272,9 @@ p {/*texto común entre los headers*/
 
 .techs{
     margin-top: -130px;
-    padding-right: 150px; /* Espacio entre la imagen y el texto */
-    width: 350px;
+    padding-right: 300px; /* Espacio entre la imagen y el texto */
+    width: auto;
+    height: 300px;
 }
 
 .price{
@@ -293,14 +304,80 @@ p {/*texto común entre los headers*/
 }
 
 @media (max-width: 768px) {
-    .title{
+    .title .title1 .title2 .title3 .title4{/* Optimiza el imput para diferentes selectores de clase*/
         margin-bottom: 0;
         font-size: 40px;
     }
-    .sau{
-        height: 120vh;
+
+    .box-container{
+        padding-top: 0px;
+        font-size: 20px;
     }
-    .navbar{
+
+    .container_btn--proyectos{
+        font-size: 15px;
+    }
+
+    .content{  
+        /*height: 450vh;*/
+        padding-top: 0px;
+        font-size: 40px;
+    }
+
+    .sau{
+        background: #252525;
+        margin-top: 0px;/*Permite ajustar esta sección de modo que las cajas atraviesen secciones de 2 colores de background distintos entre sí*/
+        padding-top: 0px;
+        padding-bottom: 250px;
+        height: 1600px;
+    }
+    /*.navbar{
         display: none;
+    }*/
+
+    .about{
+        padding-top: 0px;
+        margin-bottom: 0px;
+        width: 120%; /* Asegúrate de que el ancho esté definido */
+        height: 600px;/*seteo manual de largo */
+        box-sizing: border-box;/* SE DESPLIEGA MEJOR EN PANTALLA Para incluir padding y border en el ancho total */
+    }
+
+    .flextext {
+        border: 4px solid red;
+        font-size: 20px;   
+        text-align: center;
+        padding-left: 0px; /* Puedes ajustar esto si es necesario */
+        padding-right: 0px;
+        margin-left: 0px;
+        margin-right: 80px;
+        line-height: 1.2;
+        width: 100%; /* Ancho, puede causar estrechamiento de bloques de texto y background de secciones */
+        box-sizing: border-box; /* Para incluir padding y border en el ancho total */
+    }
+
+    .AboutMe{
+        margin-top: -10px;
+        margin-left: -70px;
+        height: 300px;
+    }
+
+    .flextext1 {
+
+        font-size: 20px;   
+        text-align: center;
+        padding-left: 0px; /* Puedes ajustar esto si es necesario */
+        padding-right: 0px;
+        margin-left: 50px;
+        margin-right: -60px;
+        padding-top:30px;
+        line-height: 1.2;
+        width: 100%; /* Ancho, puede causar estrechamiento de bloques de texto y background de secciones */
+        box-sizing: border-box; /* Para incluir padding y border en el ancho total */
+    }
+    .techs{
+        margin-top: -10px;
+        margin-right: -300px;
+        height: 300px;
     }
 }
