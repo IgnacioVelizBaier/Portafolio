@@ -22,6 +22,11 @@ width: 100%;
 z-index: 100;
 }
 
+.head .logo img {
+    width: 64px; /* Ajusta el tamaño de la imagen según sea necesario */
+    height: auto;
+}
+
 .navbar {
     display: flex;
     margin-right: 30px;
@@ -59,16 +64,61 @@ z-index: 100;
 
 .header {
     height: 60vh !important;
-    background: url(img/header.png) no-repeat center;
-    background-size: cover;
+    background: url(img/header.jpg) no-repeat center;
+    background-attachment: fixed;/*permite desplazamiento con el scroll*/
+    background-size:cover;
+    background-position:center;/* Ajuste para que la imagen se vea desde abajo */
+    text-align: center;
+}
+.title{/*Títulos*/
+
+    font-size:60px;
+    font-weight:00;
+    text-transform: uppercase;
+    color: #900000;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 1); /* Agrega una sombra al texto */
 }
 
-.title{/*Títulos*/
-    margin-bottom: 40px;
+.title1{/*Títulos*/
+    margin-right: 340px;
+    margin-bottom: 0px;
+    font-size:40px;
+    font-weight:500;
+    text-transform:capitalize;
+    text-align: left;
+    letter-spacing: .01rem;
+    color: #900000;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 1); /* Agrega una sombra al texto */
+}
+
+.title2{/*Títulos*/
+    margin-right: 20px;
+    margin-top: -10px;
+    font-size:40px;
+    font-weight:300;
+    text-transform:capitalize;
+    text-align: left;
+    letter-spacing: .01rem;
+    color: #ffffff;
+    text-shadow: 2px 2px 8px rgb(164, 10, 10); /* Agrega una sombra al texto */
+}
+
+.title3{
+    margin-top: 300px;
     font-size:60px;
-    font-weight:600;
+    font-weight:00;
     text-transform: uppercase;
-    color: #b96363;
+    color: #900000;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 1); /* Agrega una sombra al texto */
+}
+
+.title4{
+    margin-top: 400px;
+    font-size:60px;
+    font-weight:00;
+    text-transform: uppercase;
+    color: #900000;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 1); /* Agrega una sombra al texto */
 }
 
 p {/*texto común entre los headers*/
@@ -79,57 +129,41 @@ p {/*texto común entre los headers*/
 }
 
 
-.container_btn--proyectos {
+.container_btn--proyectos {/*cómo se encadenan los elementos (especialmente los botones) dentro del div*/
     display: flex;
     justify-content: center;
 }
 
-.container_btn--proyectos button {
+.container_btn--proyectos button {/*Características del conjunto de botones*/
     width: auto;
-    padding-left: 3.5rem;
+    padding-left: 3.5rem;/*offset de la izquierda y derecha respectivamente*/
     padding-right: 3.5rem;
+    border-radius: 10rem;/*redondez del botón*/
+    background: #d2d2d2;
+    display: flex;/*cómo se muestra el ícono y el texto*/
+    align-items: center;/*cómo se muestra el ícono y el texto*/
+    justify-content: center;/*Hacia dónde tenderán a ir los elementos*/
+    width: 10rem;/*Largo del botón*/
+    letter-spacing: .01rem;/*Espaciado de las letras*/
+    font-weight: bold;/*En negrita*/
+    cursor: pointer;/*Forma que tomará el cursor*/
+    margin-top: 20px;
 }
 
-.container_btn--proyectos a{
-    text-decoration: none;
-    display: inline-block;
-    margin: 0 1.5rem;
-}
-
-.container_btn--proyectos button {
-    border-radius: 1rem;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 15.8rem;
-    letter-spacing: .1rem;
-    font-weight: bold;
-    cursor: pointer;
-}
-
-.container_btn--proyectos .btn_demo:hover {
-    background: #776254;
-    box-shadow: 0px 13px 33px -14px rgba(0,0,0,0.75);
-    transition: all .4s ease;
-}
-
-.container_btn--proyectos .btn_repo:hover {
-    background: var(--black);
-    box-shadow: 0px 13px 33px -14px rgba(0,0,0,0.75);
-    transition: all .4s ease;
+.container_btn--proyectos .btn_repo:hover {/*Al mouse pasar por encima*/
+    background: #ad2828;/*Color al interactuar*/
+    box-shadow: 0px 13px 33px -14px rgba(255, 255, 255, 0.75);/*Sombreado inferior del botón*/
+    transition: all .4s ease;/*velocidad de transición entre los colores del botón*/
 }
 
 .container_btn--proyectos a {
-    text-decoration: none;
+    text-decoration: none;/*Le quita el subrayado*/
     display: inline-block;
     margin: 0 1.5rem;
 }
 
-.btn_repo {
-    padding: .8rem 0;
-    background: none;
-    color: var(--beaver);
-    border: 1px solid var(--beaver);
+.container_btn--proyectos .btn_repo img {
+    margin-right: 0.5rem; /* Ajusta el valor según el espaciado deseado */
 }
 
 .btn {
@@ -167,6 +201,7 @@ p {/*texto común entre los headers*/
 .sau{/*Bloque que contiene h2 productos y boxes*/
     padding: 30px;
     background: #1f1d1d;
+    padding-bottom: 50px;/*Permite ajustar esta sección de modo que las cajas atraviesen secciones de 2 colores de background distintos entre sí*/
 }
 
 .box-container{
@@ -177,7 +212,7 @@ p {/*texto común entre los headers*/
 }
 
 .box-container .box{
-    height: 11rem;
+    height: 28rem;
     width: 25rem;/*Distancias horizontal entre los boxes*/
     background: #101010;
     text-align: center;
@@ -186,18 +221,6 @@ p {/*texto común entre los headers*/
     margin: 2rem;
 }
 
-/*.box-container .box i {/*Específico de la biblioteca para darle un fondo circular a los íconos*/
-    /*height: 3rem;
-    width: 3rem;
-    line-height: 3rem;
-    text-align: center;
-    border-radius: 50%;
-    color: #fff;
-    background: #d90000;
-    font-size: 2rem;
-    margin: 1rem 0;
-}
-*/
 .box-container .box h3{/*título de las cajas*/
     font-size: 30px;
     color: #d90000;
@@ -210,19 +233,33 @@ p {/*texto común entre los headers*/
 
 .about{
     background: #171717;
+    padding-bottom: 150px;
 }
 
 .price{
-    background: url(img/header.png) no-repeat center;
+    background: url(img/header.jpg) no-repeat center;
     background-attachment: fixed;/*permite desplazamiento con el scroll*/
     background-size:cover;
     text-align: center;
 }
 
 .contact{
-    padding-top: 80px;
+    padding-top: 20px;
     background: #171717;
-    padding-bottom: 0;
+}
+
+.contacto{
+    text-align: left;
+}
+
+.contacto .icono {
+    display: inline-block;
+    margin-right: 10px; /* Ajusta el espacio entre la imagen y el número */
+}
+
+.contacto .icono img {
+    width: 20px; /* Ajusta el tamaño de la imagen según sea necesario */
+    height: auto;
 }
 
 @media (max-width: 768px) {
