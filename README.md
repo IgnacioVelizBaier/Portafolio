@@ -47,7 +47,7 @@
 
 - 👯 I’m looking to collaborate on **Custom projects on request**
 
-- 💬 Ask me about **apps and games on demand**
+- 💬 Ask me about **apps, games and web pageson demand**
 
 - 📫 How to contact me: **ignacioveli99@gmail.com**
 
