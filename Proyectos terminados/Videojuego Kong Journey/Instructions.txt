@@ -1,0 +1,6 @@
+Unzip and run "Donkey King alpha.exe"
+
+Controls: W,A,S,D to move
+Space: to jump
+Right click: accelerated movement
+Left click: destroy obstacles
