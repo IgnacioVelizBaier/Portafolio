@@ -176,8 +176,6 @@ p {/*texto común entre los headers*/
     background: #d90000;
 }
 
-
-
 .btn:hover {
     background: none; /*relleno de los botones será vacío, sólo quedará borde externo*/
 }
@@ -191,7 +189,7 @@ p {/*texto común entre los headers*/
 }
 
 .content{
-    height: 50vh;
+    height: 60vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -199,9 +197,9 @@ p {/*texto común entre los headers*/
 }
 
 .sau{/*Bloque que contiene h2 productos y boxes*/
-    padding: 30px;
-    background: #1f1d1d;
-    padding-bottom: 50px;/*Permite ajustar esta sección de modo que las cajas atraviesen secciones de 2 colores de background distintos entre sí*/
+    padding: 0px;
+    background: #252525;
+    margin-top: 0px;/*Permite ajustar esta sección de modo que las cajas atraviesen secciones de 2 colores de background distintos entre sí*/
 }
 
 .box-container{
@@ -233,7 +231,39 @@ p {/*texto común entre los headers*/
 
 .about{
     background: #171717;
-    padding-bottom: 150px;
+    padding: 80px;
+    padding-bottom: 250px /* Utilizamos relleno en lugar de margen */
+}
+
+.flexdis{
+    margin-top: 80px;
+    margin-left: 0px;
+    display: flex; 
+    line-height: 2; /* Puedes ajustar este valor según tus necesidades */
+}
+
+.AboutMe{
+    margin-top: -100px;
+    margin-left: 150px; /* Espacio entre la imagen y el texto */
+    width: 350px;
+}
+
+.tech{
+    background: #252525;
+    padding: 0px;
+    padding-bottom: 350px
+}
+
+.flexdis1{
+    margin-top: 120px;
+    display: flex; 
+    line-height: 2; /* Puedes ajustar este valor según tus necesidades */
+}
+
+.techs{
+    margin-top: -130px;
+    padding-right: 150px; /* Espacio entre la imagen y el texto */
+    width: 350px;
 }
 
 .price{
