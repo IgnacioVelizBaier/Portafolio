@@ -92,9 +92,9 @@ z-index: 100;
 }
 
 .title2{/*Títulos*/
-    margin-right: 20px;
+    margin-right: 120px;
     margin-top: -10px;
-    font-size:40px;
+    font-size:30px;
     font-weight:300;
     text-transform:capitalize;
     text-align: left;
@@ -106,7 +106,7 @@ z-index: 100;
 .title3{
     margin-top: 300px;
     font-size:60px;
-    font-weight:00;
+    font-weight:0;
     text-transform: uppercase;
     color: #900000;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 1); /* Agrega una sombra al texto */
@@ -115,7 +115,8 @@ z-index: 100;
 .title4{
     margin-top: 400px;
     font-size:60px;
-    font-weight:00;
+    font-weight:0;
+    letter-spacing: 0px;
     text-transform: uppercase;
     color: #900000;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 1); /* Agrega una sombra al texto */
@@ -303,8 +304,293 @@ p {/*texto común entre los headers*/
     height: auto;
 }
 
-@media (max-width: 768px) {
-    .title .title1 .title2 .title3 .title4{/* Optimiza el imput para diferentes selectores de clase*/
+@media (max-width: 740px) {/* Optimización para moviles*/
+    .head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 63px;
+    background: #343434;
+    position: fixed;
+    width: 100%;
+    z-index: 100;
+    }
+    
+    .navbar{
+        display: none;
+        /*border: 4px solid red;*/
+    }
+
+    .head .logo img {
+        width: 64px; /* Ajusta el tamaño de la imagen según sea necesario */
+        height: auto;
+    }
+    
+    .logo{
+        margin-left: 15px;
+    }
+    
+    .header {
+        height: 60vh !important;
+        background: url(img/header.jpg) no-repeat center;
+        background-attachment: center;/*permite desplazamiento con el scroll*/
+        background-size:cover;
+        background-position:center;/* Ajuste para que la imagen se vea desde abajo */
+        text-align: center;
+    }
+    .title{/*Títulos*/
+        padding-right:80px;
+        font-size:100px;
+        font-weight:0;
+        text-transform: uppercase;
+        color: #900000;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 1); /* Agrega una sombra al texto */
+    }
+    
+    .title1{/*Títulos*/
+        margin-right: 230px;
+        margin-bottom: 0px;
+        font-size:40px;
+        font-weight:500;
+        text-transform:capitalize;
+        text-align: left;
+        letter-spacing: .01rem;
+        color: #900000;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 1); /* Agrega una sombra al texto */
+    }
+    
+    .title2{/*Títulos*/
+        margin-left: 150px;
+        margin-top: 0px;
+        font-size:0px;
+        font-weight:300;
+        text-transform:capitalize;
+        text-align: left;
+        letter-spacing: .01rem;
+        color: #ffffff;
+        text-shadow: 2px 2px 8px rgb(164, 10, 10); /* Agrega una sombra al texto */
+    }
+    
+    .title3{
+        margin-right:50px;
+        margin-top: 300px;
+        font-size:60px;
+        font-weight:00;
+        text-transform: uppercase;
+        color: #900000;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 1); /* Agrega una sombra al texto */
+    }
+    
+    .title4{
+        margin-top: 950px;
+        margin-right: 100px;
+        letter-spacing: 0px;
+        font-size:20px;
+        font-weight:0;
+        text-transform: uppercase;
+        color: #900000;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 1); /* Agrega una sombra al texto */
+    }
+    
+    p {/*texto común entre los headers*/
+        margin-bottom: 40px;
+        font-size:18px;
+        color: #ffffff;
+        padding-left: 0px;
+        padding-right: 65px;
+    }
+    
+    
+    .container_btn--proyectos {/*cómo se encadenan los elementos (especialmente los botones) dentro del div*/
+        display: flex;
+        justify-content: center;
+    }
+    
+    .container_btn--proyectos button {/*Características del conjunto de botones*/
+        width: auto;
+        padding-left: 3.5rem;/*offset de la izquierda y derecha respectivamente*/
+        padding-right: 3.5rem;
+        border-radius: 10rem;/*redondez del botón*/
+        background: #d2d2d2;
+        display: flex;/*cómo se muestra el ícono y el texto*/
+        align-items: center;/*cómo se muestra el ícono y el texto*/
+        justify-content: center;/*Hacia dónde tenderán a ir los elementos*/
+        width: 10rem;/*Largo del botón*/
+        letter-spacing: .01rem;/*Espaciado de las letras*/
+        font-weight: bold;/*En negrita*/
+        cursor: pointer;/*Forma que tomará el cursor*/
+        margin-top: 20px;
+    }
+    
+    .container_btn--proyectos .btn_repo:hover {/*Al mouse pasar por encima*/
+        background: #ad2828;/*Color al interactuar*/
+        box-shadow: 0px 13px 33px -14px rgba(255, 255, 255, 0.75);/*Sombreado inferior del botón*/
+        transition: all .4s ease;/*velocidad de transición entre los colores del botón*/
+    }
+    
+    .container_btn--proyectos a {
+        text-decoration: none;/*Le quita el subrayado*/
+        display: inline-block;
+        margin: 0 1.5rem;
+    }
+    
+    .container_btn--proyectos .btn_repo img {
+        margin-right: 0.5rem; /* Ajusta el valor según el espaciado deseado */
+    }
+    
+    .btn {
+        display: inline-block;
+        margin-top: 15px;
+        padding: 10px 40px;
+        border: 2px solid #d90000;
+        color:#fff;
+        text-decoration: none;
+        background: #d90000;
+    }
+    
+    .content{
+        height: 60vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .sau{/*Bloque que contiene h2 productos y boxes*/
+        padding: 0px;
+        background: #252525;
+        padding-left: 0px;
+        margin-top: 0px;/*Permite ajustar esta sección de modo que las cajas atraviesen secciones de 2 colores de background distintos entre sí*/
+        padding-bottom: 150px /* Utilizamos relleno en lugar de margen */
+    }
+    
+    .box-container{
+        display: flex;
+        justify-content: center;/*dispone las boxes de izquierda a derecha en vez de arriba a abajo*/
+        flex-wrap: wrap;/*las reordena según se achica la pantalla*/
+        text-align: center;
+    }
+    
+    .box-container .box{
+        height: 28rem;
+        width: 20rem;/*Distancias horizontal entre los boxes*/
+        padding-right: 50px;
+        background: #101010;
+        text-align: center;
+        border-radius: Iren;
+        box-shadow: 0 .3ren Sren rgba(0,0,0, .5);
+        margin: 2rem;
+    }
+    
+    .box-container .box h3{/*título de las cajas*/
+        font-size: 20px;
+    }
+    
+    .box-container .box p{/*título de las cajas*/
+        padding: 0 15px;
+        font-size: 16px;
+    }
+    
+    .about{        
+        background: #171717;
+        padding-bottom: 700px /* Utilizamos relleno en lugar de margen */
+    }
+    
+    .flextext{
+        text-align: center;
+    }
+    
+    .flexdis{
+        margin-top: 80px;
+        margin-left: 0px;
+        display: block; 
+        line-height: 2; /* Puedes ajustar este valor según tus necesidades */
+    }
+    
+    .AboutMe{
+        margin-left: 150px; /* Espacio entre la imagen y el texto */
+        width: auto;
+        height: 400px;
+    }
+    
+    .tech{
+        background: #252525;
+        margin-top: -200px;
+        padding-bottom: 550px;;
+    }
+    
+    .flextext1{
+        margin-left: 0px !important;
+    }
+
+    .flexdis1{
+        margin-top: 0px;
+        display: block; 
+        line-height: 2; /* Puedes ajustar este valor según tus necesidades */
+    }
+    
+    .techs{
+        margin-top: -130px;
+        padding-right: 400px; /* Espacio entre la imagen y el texto */
+        width: 200px;
+        height: auto !important;
+    }
+    
+    .price{
+        background: url(img/header.jpg) no-repeat center;
+        background-attachment: fixed;/*permite desplazamiento con el scroll*/
+        background-size:cover;
+        text-align: center;
+    }
+    
+    .contact{
+        padding-top: 20px;
+        background: #171717;
+    }
+    
+    .contacto{
+        text-align: left;
+    }
+    
+    .contacto .icono {
+        display: inline-block;
+        margin-right: 10px; /* Ajusta el espacio entre la imagen y el número */
+    }
+    
+    .contacto .icono img {
+        width: 20px; /* Ajusta el tamaño de la imagen según sea necesario */
+        height: auto;
+    }
+}
+
+@media (max-width: 1410px) {/* Optimización para computador modo ventana*/
+    .title {/* Optimiza el imput para diferentes selectores de clase*/
+        padding-left: 100;
+        font-size: 40px;
+        font-size:60px;
+        font-weight:0;
+        text-transform: uppercase;
+        color: #900000;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 1); /* Agrega una sombra al texto */
+    }
+
+    .title1 {/* Optimiza el imput para diferentes selectores de clase*/
+        margin-bottom: 0;
+        font-size: 40px;
+    }
+
+    .title2 {/* Optimiza el imput para diferentes selectores de clase*/
+        margin-bottom: 0;
+        font-size: 30px;
+        margin-right: 120px;
+    }
+
+    .title3 {/* Optimiza el imput para diferentes selectores de clase*/
+        margin-bottom: 0;
+        font-size: 40px;
+    }
+
+    .title4 {/* Optimiza el imput para diferentes selectores de clase*/
         margin-bottom: 0;
         font-size: 40px;
     }
@@ -333,12 +619,13 @@ p {/*texto común entre los headers*/
     }
     /*.navbar{
         display: none;
+        border: 4px solid red;
     }*/
 
     .about{
         padding-top: 0px;
         margin-bottom: 0px;
-        width: 120%; /* Asegúrate de que el ancho esté definido */
+        width: 100%; /* Asegúrate de que el ancho esté definido */
         height: 600px;/*seteo manual de largo */
         box-sizing: border-box;/* SE DESPLIEGA MEJOR EN PANTALLA Para incluir padding y border en el ancho total */
     }
@@ -362,7 +649,6 @@ p {/*texto común entre los headers*/
     }
 
     .flextext1 {
-
         font-size: 20px;   
         text-align: center;
         padding-left: 0px; /* Puedes ajustar esto si es necesario */
