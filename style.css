@@ -372,7 +372,7 @@ p {/*texto común entre los headers*/
     }
     
     .title3{
-        margin-right:20px;
+        margin-right:0px;
         margin-top: 300px;
         font-size:60px;
         font-weight:00;
@@ -397,14 +397,14 @@ p {/*texto común entre los headers*/
         margin-bottom: 40px;
         font-size:18px;
         color: #ffffff;
-        padding-left: 35px;
-        padding-right: 65px;
+        padding-left: 45px;
+        padding-right: 55px;
     }
     
     .container_btn--proyectos {/*cómo se encadenan los elementos (especialmente los botones) dentro del div*/
         display: flex;
         justify-content: center;
-        padding-left: 27px;
+        padding-left: 50px;
     }
     
     .container_btn--proyectos button {/*Características del conjunto de botones*/
@@ -487,18 +487,18 @@ p {/*texto común entre los headers*/
     
     .box-container .box h3{/*título de las cajas*/
         font-size: 20px;
-        margin-left: 30px;
+        margin-left: 60px;
     }
     
-    .box-container .box p{/*título de las cajas*/
+    .box-container .box p{
         /*padding: 0 15px;*/
-        margin-left: 27px;
+        margin-left: 50px;
         font-size: 16px;
     }
 
     .vid{
         margin-top: -35px;
-        margin-left: 26px;
+        margin-left: 37px;
     }
     
     .about{        
