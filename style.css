@@ -397,7 +397,7 @@ p {/*texto común entre los headers*/
         margin-bottom: 40px;
         font-size:18px;
         color: #ffffff;
-        padding-left: 0px;
+        padding-left: 20px;
         padding-right: 55px;
         /*overflow-x: hidden;
         box-sizing: border-box;*/
@@ -467,6 +467,15 @@ p {/*texto común entre los headers*/
         padding-bottom: 150px /* Utilizamos relleno en lugar de margen */
     }
     
+    .proy{
+        padding-top:30px;
+        margin-bottom:20px;
+        margin-left: 30px;
+        margin-right: 20px;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
     .box-container{
         
         display: flex;
