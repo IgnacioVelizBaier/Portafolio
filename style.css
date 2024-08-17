@@ -5,7 +5,6 @@
     font-size:100%;
     vertical-align: baseline;
     /*border: 4px solid red;*/
-    border: 1px solid red;
     box-sizing: border-box; /* Asegura que el padding y el borde no afecten el ancho total */
 }
 
@@ -350,7 +349,7 @@ p {/*texto común entre los headers*/
     }
     
     .title1{/*Títulos*/
-        margin-right: 230px;
+        margin-right: 210px;
         margin-bottom: 0px;
         font-size:40px;
         font-weight:500;
@@ -375,7 +374,7 @@ p {/*texto común entre los headers*/
     
     .title3{
         margin-right:0px;
-        margin-top: 300px;
+        margin-top: 400px;
         font-size:60px;
         font-weight:00;
         text-transform: uppercase;
@@ -478,7 +477,7 @@ p {/*texto común entre los headers*/
     
     .box-container .box{
         height: 28rem;
-        width: 18rem;/*Distancias horizontal entre los boxes*/
+        width: 20rem;/*Distancias horizontal entre los boxes*/
         padding-right: 50px;
         background: #101010;
         text-align: center;
@@ -495,13 +494,14 @@ p {/*texto común entre los headers*/
     
     .box-container .box p{
         /*padding: 0 15px;*/
-        margin-left: 50px;
+        margin-left:50px!important;
+        margin-right: -30px;
         font-size: 16px;
     }
 
     .vid{
         margin-top: -35px;
-        margin-left: 25px;
+        margin-left: 50px;
     }
     
     .about{        
