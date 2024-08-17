@@ -338,6 +338,7 @@ p {/*texto común entre los headers*/
         text-align: center;
     }
     .title{/*Títulos*/
+        margin-bottom:100px;
         padding-right:60px;
         font-size:100px;
         font-weight:0;
@@ -491,6 +492,10 @@ p {/*texto común entre los headers*/
         padding: 0 15px;
         font-size: 16px;
     }
+
+    .vid{
+        margin-left: 30px;
+    }
     
     .about{        
         background: #171717;
@@ -510,7 +515,7 @@ p {/*texto común entre los headers*/
     }
     
     .AboutMe{
-        margin-left: 150px; /* Espacio entre la imagen y el texto */
+        margin-left: 10px !important;
         width: auto;
         height: 400px;
     }
@@ -532,6 +537,7 @@ p {/*texto común entre los headers*/
     }
 
     .techs{
+        margin-left: -60px;
         margin-top: -10px;
         height: 200px !important;
     }
