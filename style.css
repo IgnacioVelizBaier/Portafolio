@@ -372,7 +372,7 @@ p {/*texto común entre los headers*/
     }
     
     .title3{
-        margin-right:50px;
+        margin-right:20px;
         margin-top: 300px;
         font-size:60px;
         font-weight:00;
@@ -393,6 +393,7 @@ p {/*texto común entre los headers*/
     }
     
     p {/*texto común entre los headers*/
+        margin-right:-5px;
         margin-bottom: 40px;
         font-size:18px;
         color: #ffffff;
@@ -400,10 +401,10 @@ p {/*texto común entre los headers*/
         padding-right: 65px;
     }
     
-    
     .container_btn--proyectos {/*cómo se encadenan los elementos (especialmente los botones) dentro del div*/
         display: flex;
         justify-content: center;
+        padding-left: 27px;
     }
     
     .container_btn--proyectos button {/*Características del conjunto de botones*/
@@ -486,15 +487,18 @@ p {/*texto común entre los headers*/
     
     .box-container .box h3{/*título de las cajas*/
         font-size: 20px;
+        margin-left: 30px;
     }
     
     .box-container .box p{/*título de las cajas*/
-        padding: 0 15px;
+        /*padding: 0 15px;*/
+        margin-left: 27px;
         font-size: 16px;
     }
 
     .vid{
-        margin-left: 50px;
+        margin-top: -35px;
+        margin-left: 26px;
     }
     
     .about{        
@@ -565,6 +569,7 @@ p {/*texto común entre los headers*/
 
     .contact1{
         margin-right: 5px;
+        font-size: 15px;
     }
     
     .contacto .icono img {
