@@ -476,7 +476,7 @@ p {/*texto común entre los headers*/
     
     .box-container .box{
         height: 28rem;
-        width: 18rem;/*Distancias horizontal entre los boxes*/
+        width: 20rem;/*Distancias horizontal entre los boxes*/
         padding-right: 50px;
         background: #101010;
         text-align: center;
