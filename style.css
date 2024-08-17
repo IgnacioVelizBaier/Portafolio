@@ -382,7 +382,7 @@ p {/*texto común entre los headers*/
     
     .title4{
         margin-top: 950px;
-        margin-right: 100px;
+        margin-right: 30px;
         letter-spacing: 0px;
         font-size:20px;
         font-weight:0;
@@ -499,6 +499,7 @@ p {/*texto común entre los headers*/
     
     .flextext{
         text-align: center;
+        margin-right:180px !important;
     }
     
     .flexdis{
