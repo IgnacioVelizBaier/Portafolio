@@ -4,6 +4,7 @@
     border: 0;
     font-size:100%;
     vertical-align: baseline;
+    /*border: 4px solid red;*/
 }
 
 body {
@@ -201,7 +202,7 @@ p {/*texto común entre los headers*/
     padding: 0px;
     background: #252525;
     margin-top: 0px;/*Permite ajustar esta sección de modo que las cajas atraviesen secciones de 2 colores de background distintos entre sí*/
-    padding-bottom: 150px /* Utilizamos relleno en lugar de margen */
+    padding-bottom: 150px; /* Utilizamos relleno en lugar de margen */
 }
 
 .box-container{
@@ -265,17 +266,15 @@ p {/*texto común entre los headers*/
     padding-bottom: 350px
 }
 
+.techs{
+    margin-top: -10px;
+    height: 300px;
+}
+
 .flexdis1{
     margin-top: 120px;
     display: flex; 
     line-height: 2; /* Puedes ajustar este valor según tus necesidades */
-}
-
-.techs{
-    margin-top: -130px;
-    padding-right: 300px; /* Espacio entre la imagen y el texto */
-    width: auto;
-    height: 300px;
 }
 
 .price{
@@ -339,7 +338,7 @@ p {/*texto común entre los headers*/
         text-align: center;
     }
     .title{/*Títulos*/
-        padding-right:80px;
+        padding-right:60px;
         font-size:100px;
         font-weight:0;
         text-transform: uppercase;
@@ -469,6 +468,7 @@ p {/*texto común entre los headers*/
         justify-content: center;/*dispone las boxes de izquierda a derecha en vez de arriba a abajo*/
         flex-wrap: wrap;/*las reordena según se achica la pantalla*/
         text-align: center;
+        margin-right: 85px;
     }
     
     .box-container .box{
@@ -480,6 +480,7 @@ p {/*texto común entre los headers*/
         border-radius: Iren;
         box-shadow: 0 .3ren Sren rgba(0,0,0, .5);
         margin: 2rem;
+        margin-right: -35px;
     }
     
     .box-container .box h3{/*título de las cajas*/
@@ -528,12 +529,10 @@ p {/*texto común entre los headers*/
         display: block; 
         line-height: 2; /* Puedes ajustar este valor según tus necesidades */
     }
-    
+
     .techs{
-        margin-top: -130px;
-        padding-right: 400px; /* Espacio entre la imagen y el texto */
-        width: 200px;
-        height: auto !important;
+        margin-top: -10px;
+        height: 200px !important;
     }
     
     .price{
@@ -556,10 +555,15 @@ p {/*texto común entre los headers*/
         display: inline-block;
         margin-right: 10px; /* Ajusta el espacio entre la imagen y el número */
     }
+
+    .contact1{
+        margin-right: 5px;
+    }
     
     .contacto .icono img {
         width: 20px; /* Ajusta el tamaño de la imagen según sea necesario */
         height: auto;
+        margin-left:20px;
     }
 }
 
@@ -607,7 +611,7 @@ p {/*texto común entre los headers*/
     .content{  
         /*height: 450vh;*/
         padding-top: 0px;
-        font-size: 40px;
+        font-size: 1px;/*OJO*/
     }
 
     .sau{
@@ -662,7 +666,6 @@ p {/*texto común entre los headers*/
     }
     .techs{
         margin-top: -10px;
-        margin-right: -300px;
         height: 300px;
     }
 }
