@@ -1,0 +1,927 @@
+1.- Un pronóstico de Terminal se abrevia como:
+a
+A.- TAF.
+B.- METAR.
+C.- SIGMET.
+D.- GAMET.
+2.- Un informe meteorológico ordinario de superficie se abrevia como:
+b
+A.- TAF.
+B.- METAR.
+C.- SIGMET.
+D.- GAMET.
+3.- La sigla "VC" se utiliza para indicar un fenómeno que ocurre en las vecindades del aeropuerto:
+b
+A.- En un radio de 8 a 10 millas alrededor del aeropuerto.
+B.- Entre 8 y 16 Km. del punto de referencia del AD.
+C.- 10 Km. medidas desde la estación que genera el informe.
+D.- 5 Km. medidas desde la estación que genera el informe.
+4.- En una carta de superficie las isobaras representan líneas de igual presión:
+b
+A.- En la superficie.
+B.- Reducidas al nivel de mar.
+C.- A una altitud de presión determinada.
+D.- Reducidas a nivel de la estación.
+5.- Un pronóstico Aeronáutico de área de baja altura se abrevia como:
+d
+A.- TAF.
+B.- METAR.
+C.- SIGMET.
+D.- GAMET.
+6.- Las Advertencias Meteorológicas en Vuelo, observadas o pronosticadas, y que informan sobre condiciones potencialmente peligrosas que pueden afectar la seguridad de las operaciones aéreas, se conocen como...
+c
+A.- AIREP.
+B.- ARS.
+C.- SIGMET.
+D.- GAMET.
+7.- Indique qué significado tienen, respectivamente, las abreviaturas ABV, CLD y MIFG en Meteorología.
+c
+A.- Área Geográfica Prevista, Continua y Niebla.
+B.- Apreciación General, Costa y Niebla Interior.
+C.- Sobre, Nubes y Niebla baja.
+D.- Aproximación, Costa e Interior
+8.- La dirección del viento se refiere a la dirección hacia donde sopla el viento.
+b
+A.- VERDADERO.
+B.- FALSO.
+9.- ¿Cuál es la causa principal de todos los cambios meteorológicos sobre la Tierra?
+a
+A.- Las variaciones de la energía solar en la superficie de la Tierra.
+B.- Los cambios de la presión del aire sobre la superficie de la Tierra.
+C.- El movimiento de las masas de aire desde las áreas húmedas hacia las áreas secas.
+D.- La fuerza de Coriolis.
+10.- ¿Cuál es el movimiento característico del aire en una zona de alta presión?
+b
+A.- Ascender desde la alta presión en la superficie hacia presiones menores en mayores altitudes.
+B.- Descender hacia la superficie y luego desplazarse hacia fuera del centro de alta presión.
+C.- Salir del centro de alta en niveles superiores y entrar en centro de alta en la superficie.
+D.- Ninguna de las anteriores.
+11.- ¿En qué ubicación la fuerza de Coriolis tiene menos efecto en la dirección del viento?
+c
+A.- En los polos.
+B.- En latitudes medias (30° a 60°).
+C.- En el Ecuador.
+D.- En la superficie.
+12.- ¿Qué condición meteorológica se define como "anticiclón".
+b
+A.- Zona Calma.
+B.- Zona de alta presión.
+C.- Zona de baja presión.
+D.- Zona de ciclones.
+13.- En niveles cercanos a la tropopausa se producen:
+a
+A.- Vientos máximos y zonas angostas de corrientes en chorro (jet streams).
+B.- Aumento brusco de temperatura sobre la tropopausa.
+C.- Capas delgadas de nubes tipo cirros (cristales de hielo) en la tropopausa.
+D.- Vientos máximos y zonas cizalle del viento.
+14.- ¿Qué término describe la elongación de una baja presión?
+a
+A.- Vaguada.
+B.- Cuña.
+C.- Huracán o tifón.
+D.- Ciclón o anticiclón.
+15.- ¿Qué término se utiliza cuando la temperatura del aire cambia por compresión o expansión, sin que se haya agregado o quitado calor?
+c
+A.- Catabático.
+B.- Advección.
+C.- Adiabático.
+D.- Convección.
+16.- ¿Qué tipo de viento baja una pendiente haciéndose más cálido y más seco?
+c
+A.- Brisa de tierra.
+B.- Viento de valle.
+C.- Viento catabático.
+D.- Brisa de mar.
+17.- ¿Qué sucede cuando el vapor de agua cambia a estado líquido al ser elevado en una tormenta?
+a
+A.- El calor latente es liberado a la atmósfera.
+B.- El calor latente se transforma en energía latente.
+C.- El calor latente es absorbido por las gotitas de agua del aire circundante.
+D.- Baja la temperatura ambiente.
+18.- A una inversión de temperatura hay asociada:
+b
+A.- Una capa de aire estable.
+B.- Una capa de aire inestable.
+C.- Tormentas de masa de aire.
+D.- Altas temperaturas.
+19.- En un período de 24 horas, la temperatura mínima generalmente ocurre:
+a
+A.- Después de la salida del sol.
+B.- Alrededor de una hora antes de la salida del sol.
+C.- A medianoche.
+D.- A la hora en que sale el sol.
+20.- El término ISOTERMA corresponde a:
+c
+A.- Línea de velocidad del viento igual o constante.
+B.- Línea que une puntos de presión barométrica igual o constante.
+C.- Línea de temperatura igual o constante.
+D.- Ninguna de las anteriores.
+21.- Nudo es una unidad de velocidad igual a una milla náutica por hora.
+a
+A.- VERDADERO.
+B.- FALSO.
+22.- La definición del término HECTOPASCAL es: medida internacional de presión atmosférica equivalente a 1.000 dinas/cm2. Por consiguiente, un HPA equivale a un milibar.
+a
+A.- VERDADERO.
+B.- FALSO.
+23.- Existen bajas presiones cuando están por debajo de:
+b
+A.- 1.023 Hpa.
+B.- 29.92 pulgadas.
+C.- 1.013 pulgadas.
+D.- 778 milímetros de Hg.
+24.- Las líneas que unen puntos de igual presión barométrica se denominan:
+c
+A.- Isotermas.
+B.- Isotacas.
+C.- Isobaras.
+D.- Isogónicas.
+25.- El valor estándar de la presión a nivel del mar es:
+d
+A.- 29,92 pulgadas.
+B.- 760 milímetros.
+C.- 1.013,2 hectopascales.
+D.- Todas las anteriores son correctas.
+26.- La presión atmosférica:
+c
+A.- Aumenta, a medida que aumenta la temperatura.
+B.- Permanece constante en todo momento.
+C.- Disminuye con el aumento de la altitud.
+D.- Aumenta con el aumento de la altitud.
+27.- Para medir la presión atmosférica en una oficina meteorológica, se usa un instrumento que se denomina:
+d
+A.- Termómetro.
+B.- Hidrómetra.
+C.- Termógrafo.
+D.- Barómetro.
+28.- En el hemisferio sur el aire que se mueve saliendo de una zona de alta presión, fluye en un espiral que gira en el sentido contrario a los punteros del reloj.
+a
+A.- VERDADERO.
+B.- FALSO.
+29.- Al aumentar la presión, la densidad del aire:
+c
+A.- Disminuye.
+B.- Permanece constante.
+C.- Aumenta.
+D.- Ninguna de las anteriores.
+30.- ¿Cuál condición define un Anticiclón?
+b
+A.- Dorsal.
+B.- Área de alta presión.
+C.- Vaguada.
+D.- Área de baja presión.
+31.- El efecto de la altitud sobre la presión atmosférica se refiere a que la presión atmosférica:
+c
+A.- Aumenta, a medida que aumenta la temperatura.
+B.- Permanece constante en todo momento.
+C.- Disminuye, con el aumento de la altitud.
+D.- Aumenta, con el aumento de la altitud.
+32.- La gradiente horizontal de presión determina la dirección e intensidad del viento, por lo tanto: A mayor gradiente de presión horizontal mayor será la intensidad del viento.
+a
+A.- VERDADERO.
+B.- FALSO.
+33.- La niebla de mar es un tipo de niebla de:
+a
+A.- Advección.
+B.- Convección.
+C.- Suspensión.
+D.- Distensión.
+34.- La niebla se distingue de la bruma por la humedad y color gris.
+a
+A.- VERDADERO.
+B.- FALSO.
+35.- El punto de rocío es la temperatura hasta la cual el aire debe ser enfriado para que se sature.
+a
+A.- VERDADERO.
+B.- FALSO.
+36.- Cuando el aire cercano a la superficie de la tierra se enfría hasta alcanzar la temperatura del punto de rocío, se convierte en:
+d
+A.- Nube.
+B.- Lluvia.
+C.- Llovizna.
+D.- Niebla.
+37.- Para que la formación de niebla sea probable, debe existir:
+c
+A.- Nubes en altura y corrientes descendentes de aire húmedo.
+B.- Fuerte viento y alta humedad relativa a nivel del suelo.
+C.- Alta humedad, temperatura y temperatura del punto de rocío muy cercanas y viento calma.
+D.- Un área con temperatura cercana a los 0º C
+38.- En una zona de altas presiones, cuando el aire esta húmedo, es fácil la existencia de nieblas:
+a
+A.- Verdadero.
+B.- Falso.
+39.- El punto de rocío es:
+c
+A.- La expansión entre la actual temperatura y la temperatura durante la evaporación.
+B.- La temperatura a la cual los puntos de evaporación y condensación son iguales.
+C.- La temperatura a la cual debe enfriarse una masa de aire para saturarse.
+D.- La temperatura a la cual se forma niebla.
+40.- ¿Cuál es la niebla más duradera?
+a
+A.- Niebla de Advección.
+B.- Niebla Termal.
+C.- Niebla Convectiva.
+D.- Niebla de Radiación.
+41.- La bruma, es una concentración de partículas de sal u otras partículas secas no clasificadas como polvo u otro fenómeno. Se forma en aire inestable, generalmente tiene unos pocos cientos de pies de espesor, pero a veces se puede extender tan alta como a 15.000 pies.
+a
+A.- VERDADERO.
+B.- FALSO.
+42.- Concentraciones de humo se forman principalmente en áreas industriales cuando el aire es estable.
+a
+A.- VERDADERO.
+B.- FALSO.
+43.- La diferencia entre Niebla y Neblina radica en que la primera presenta una visibilidad menor de 1000 metros y la segunda mayor de 1000 metros.
+a
+A.- VERDADERO.
+B.- FALSO.
+44.- Señale qué tipo de nubes son más indicativas de turbulencia fuerte
+b
+A.- Nimbo estrato.
+B.- Lenticulares.
+C.- Cirrocúmulo.
+D.- Ninguna de las anteriores.
+45.- Las causas principales que originan las turbulencias son:
+d
+A.- Corrientes convectivas.
+B.- Obstrucciones al flujo del viento.
+C.- Cortante del viento.
+D.- Todas las anteriores.
+46.- Obstrucciones tales como edificios, árboles y terrenos abruptos, obstaculizan el paso del viento y lo convierten en un flujo turbulento con complejos remolinos.
+a
+A.- VERDADERO.
+B.- FALSO.
+47.- La turbulencia clasificada como mecánica es producida por una interrupción del flujo del viento debido a la presencia de:
+d
+A.- Arbustos.
+B.- Edificios.
+C.- Árboles.
+D.- Todas las anteriores.
+48.- La turbulencia más fuerte dentro de nubes, es causa de la cortante del viento entre corrientes de aire ascendentes y descendentes.
+a
+A.- VERDADERO.
+B.- FALSO.
+49.- ¿Qué corrientes son las causantes de las aceleraciones verticales turbulentas que experimentan los pilotos?
+a
+A.- Las convectivas.
+B.- Las horizontales.
+C.- Las conductivas.
+D.- Todas las anteriores son verdaderas.
+50.- El viento al soplar por el lado de sotavento, sigue el contorno del terreno y fluye hacia abajo, produciendo turbulencia y forzando el avión contra la ladera del cerro.
+a
+A.- VERDADERO.
+B.- FALSO.
+51.- La cizalladura o cortante de viento, se describe como un cambio en la dirección y/o velocidad del viento, dentro de una distancia muy corta en la atmósfera.
+a
+A.- VERDADERO.
+B.- FALSO.
+52.- La onda de montaña se define como:
+a
+A.- Turbulencia fuerte en sotavento de una montaña.
+B.- Turbulencia creada en una montaña por ráfagas de viento existente en altura.
+C.- Onda de viento original en el barlovento de una montaña y de dirección paralela a la misma.
+D.- Ninguna de las anteriores.
+53.- Las Ondas de Montaña pueden crear T.A.C.
+a
+A.- VERDADERO.
+B.- FALSO.
+54.- La turbulencia de estela se genera por el flujo de la masa de aire que pasa por las alas de la aeronave:
+a
+A.- VERDADERO.
+B.- FALSO.
+55.- Vientos más o menos perpendiculares al nivel de la cima de la montaña, sobre 40 nudos, indican que se encontrará turbulencia:
+c
+A.- Ligera.
+B.- Moderada.
+C.- Severa.
+D.- No es indicación de turbulencia.
+56.- La turbulencia más fuerte que puede encontrar una aeronave es:
+b
+A.- Cerca de un CB.
+B.- Dentro de un CB.
+C.- En un CU.
+D.- Bajo un CB.
+57.- La turbulencia térmica está asociada a un fenómeno convectivo.
+a
+A.- VERDADERO.
+B.- FALSO.
+58.- Para precisar el grado de turbulencia, se dice que es moderada, cuando:
+a
+A.- Se desplazan los objetos no adheridos en el interior de la aeronave.
+B.- Existe dificultad para caminar dentro de una aeronave.
+C.- Es perceptible.
+D.- Existe una vibración constante.
+59.- La turbulencia encontrada sobre 15.000 pies AGL, no asociada con formaciones nubosas, se reportará como:
+c
+A.- Turbulencia convectiva.
+B.- Turbulencia de niveles altos.
+C.- Turbulencia de aire claro.
+D.- Turbulencia suave.
+60.- ¿Qué evento generalmente ocurre en el hemisferio sur después que una aeronave cruza un frente frío hacia el aire frío?
+c
+A.- La diferencia entre la temperatura ambiente y la temperatura del punto
+de rocío disminuye.
+B.- La dirección del viento cambia hacia la derecha.
+C.- La presión atmosférica aumenta.
+D.- Ninguna de las anteriores.
+61.- ¿Qué tipo de cambios en el tiempo se puede esperar en una zona de frontolisis:
+b
+A.- El tiempo frontal se intensificará.
+B.- El frente se disipará.
+C.- El frente se moverá a una velocidad mayor.
+D.- Vientos de altura que soplen a través del frente.
+62.- Frontólisis es:
+d
+A.- Formación de un frente.
+B.- Formación de hielo.
+C.- Formación de nieve.
+D.- Ninguna de las anteriores.
+63.- Después de cruzar un frente, por seguridad, se debe solicitar un nuevo ajuste de temperatura.
+b
+A.- VERDADERO.
+B.- FALSO.
+64.- Cuando Ud. se acerca a un frente hacia la masa con el aire...................................., la presión generalmente cae hasta que cruza el frente, y después permanece constante o cae ligeramente en el aire cálido.
+a
+A.- Cálido.
+B.- Frío.
+C.- Turbulento.
+D.- Ninguna de las anteriores.
+65.- A medida que se transforman las masas de aire adyacentes y disminuyen las diferencias de temperatura y presión a través de un frente, el frente se disipa, proceso que se denomina:
+c
+A.- Frontogénesis.
+B.- Frontera.
+C.- Frontólisis.
+D.- Ninguna de las anteriores.
+66.- La generación de un frente se denomina frontogénesis.
+a
+A.- VERDADERO.
+B.- FALSO.
+67.- Cuando un frente frío alcanza a un frente cálido, se desarrolla un frente:
+d
+A.- Estacionario.
+B.- Frío.
+C.- Cálido.
+D.- Ocluido.
+68.- Existen las oclusiones de frente frío y frente cálido.
+a
+A.- VERDADERO.
+B.- FALSO.
+69.- Durante el paso de un frente frío, la temperatura:
+b
+A.- Se mantiene.
+B.- Baja.
+C.- Sube.
+D.- A y B son correctas.
+70.- Delante de un frente cálido la presión:
+a
+A.- Baja.
+B.- Se mantiene constante.
+C.- Sube lentamente.
+D.- Sube notoriamente.
+71.- Durante el paso de un frente frío, el viento:
+c
+A.- Disminuye y cambia de dirección.
+B.- Permanece constante.
+C.- Aumenta y cambia de dirección.
+D.- Rota y disminuye.
+72.- Las características de una masa de aire que contiene cúmulos, techos ilimitados, buena visibilidad, turbulencia en niveles bajos, chubascos, corresponde a:
+a
+A.- Frente frío.
+B.- Frente cálido.
+C.- Frente ocluido.
+D.- Frente inestable.
+73.- La característica de una masa de aire que contiene Stratocúmulos, techos bajos, poca visibilidad, aire estable, llovizna, corresponde a:
+b
+A.- Frente frío.
+B.- Frente cálido.
+C.- Frente ocluido.
+D.- Frente estable.
+74.- Si una masa de aire frío está reemplazando a una más cálida, el frente se llama "cálido".
+b
+A.- VERDADERO.
+B.- FALSO.
+75.- Durante el paso de un frente cálido, el viento:
+c
+A.- Se mantiene constante.
+B.- Aumenta de intensidad.
+C.- Disminuye y cambia de dirección.
+D.- Rota y aumenta.
+76.- Delante de un frente frío, la presión:
+b
+A.- Sube.
+B.- Baja.
+C.- Se mantiene constante.
+D.- Aumenta.
+77.- Después de pasar un frente cálido, la visibilidad es:
+v
+A.- Buena.
+B.- Regular.
+C.- Mala.
+D.- No se puede estimar.
+78.- Durante el paso de un frente cálido, la precipitación es:
+a
+A.- Continua.
+B.- Nula.
+C.- Escasa.
+D.- Severa Intermitente.
+79.- ¿Cuáles son las características de un frente cálido con aire estable en su interior?
+d
+A.- Buena visibilidad, chubascos y nubes estratiformes.
+B.- Mala visibilidad, precipitación intermitente y nubes cumuliformes.
+C.- Mala visibilidad, precipitación continua y nubes cumuliformes.
+D.- Mala visibilidad, precipitación débil continua y nubes estratiformes.
+80.- Un frente cálido presenta generalmente, la siguiente sucesión nubosa:
+a
+A.- CI, CS, AS, NS, ST.
+B.- ST, NS, AC, CB, CI.
+C.- CI, CB, AC, NS, ST.
+D.- CB, NS, CI, CC.
+81.- Delante de un frente frío la presión:
+a
+A.- Baja.
+B.- Sube.
+C.- Se mantiene constante.
+D.- Varía según la temperatura.
+82.- ¿Cómo se clasifican los Frentes Meteorológicos?
+d
+A.- Frente cálido.
+B.- Frente frío.
+C.- Frente ocluido y estacionario.
+D.- Todas las alternativas anteriores son correctas.
+83.- Podemos reconocer un frente cálido por la aparición de las siguientes nubes:
+d
+A.- Cirrostratos.
+B.- Altostratos.
+C.- Nimboestratos.
+D.- Todas las anteriores.
+84.- ¿Cuál es el efecto de la formación de hielo, nieve o escarcha sobre una aeronave?
+c
+A.- Disminución de la velocidad de stall.
+B.- Disminución de la tendencia a levantar la nariz.
+C.- Disminución del ángulo de ataque de stalls (pérdida).
+D.- Ninguna de las anteriores.
+85.- ¿Qué característica tiene el agua sobre enfriada?
+c
+A.- Al impactar el ala, las gotas se subliman convirtiéndose en partículas de hielo.
+B.- Las inestables gotas se congelan al chocar con un objeto expuesto.
+C.- La temperatura de la gota permanece en 0° C hasta que impacta parte del fuselaje, para luego acumularse como hielo claro.
+D.- Son altamente estables.
+86.- ¿Qué tipo de hielo está asociado con las gotas de agua más chicas, como aquellas encontradas en nubes estratos de niveles bajos?
+c
+A.- Hielo claro.
+B.- Escarcha (frost ice).
+C.- Hielo granulado (rime ice).
+D.- Hielo Mixto.
+87.- ¿Qué tipo de precipitación es indicativo de la presencia de gotas de agua sobre enfriadas?
+b
+A.- Nieve húmeda.
+B.- Lluvia congelante.
+C.- Granizos (ice pellets).
+D.- Llovizna fuerte.
+88.- ¿Qué condición existe cuando durante el vuelo se encuentra granizos?
+a
+A.- Tormentas en niveles superiores.
+B.- Lluvia congelante en niveles superiores.
+C.- Nieve en niveles superiores.
+D.- Agua en subfusión.
+89.- ¿Cuándo es más probable que se forme escarcha en la superficie de un avión?
+c
+A.- En noches despejadas con aire estable y viento ligero.
+B.- En noches con cielo cubierto con precipitación tipo llovizna congelante.
+C.- En noches despejadas con actividad convectiva y poca dispersión entre la temperatura ambiente y la temperatura del punto de rocío.
+D.- En las noches de invierno con un frente frío aproximando
+90.- El nivel de Engelamiento y la Isoterma 0º C son sinónimos.
+a
+A.- VERDADERO.
+B.- FALSO.
+91.- La característica del hielo claro o transparente en un perfil alar es:
+c
+A.- Granulado y en forma de escarcha.
+B.- Duro con protuberancias.
+C.- Duro y transparente.
+D.- Blando y transparente.
+92.- El enfriamiento aerodinámico puede bajar la temperatura de un perfil alar a 0°C aunque la temperatura ambiente sea un poco más alta
+a
+A.- VERDADERO.
+B.- FALSO.
+93.- Básicamente todas las nubes a temperaturas de subfusión son potencialmente productoras de:
+c
+A.- Calor.
+B.- Frío.
+C.- Hielo.
+D.- Agua.
+94.- La trasformación del vapor de agua en cristales de hielo, cuando el punto de rocío está por debajo de 0º C, se denomina:
+c
+A.- Punto de rocío.
+B.- Precipitación.
+C.- Escarcha.
+D.- Granizo.
+95.- Indique las características que corresponden a una condición de formación de hielo claro.
+d
+A.- Es el hielo que más se adhiere a la superficie de la aeronave.
+B.- Se forma a temperaturas levemente bajo el punto de congelación.
+C.- Es normalmente encontrada en nubes cumuliformes.
+D.- Todas las alternativas son correctas.
+96.- Las nubes bajas, desde cerca de la SFC hasta los 6000 FT, son:
+b
+A.- Ns-Cc-Sc.
+B.- St-Sc-Ns.
+C.- Sc-Cu-Cb.
+D.- Ci-Cs-Cc.
+97.- La altura desde la superficie del terreno a la base de la capa más baja de las nubes o fenómenos obscuros que cubren más de la mitad del cielo y se reporta como nublado o cubierto, se denomina:
+b
+A.- Visibilidad.
+B.- Techo.
+C.- Base de nubes.
+D.- Ninguna de las anteriores.
+98.- Las nubes de tormenta son:
+b
+A.- Stratus.
+B.- Cumulonimbus.
+C.- Nimbus.
+D.- Fracto-estratos.
+99.- Las nubes que se desarrollan horizontalmente y permanecen en láminas o capas sin forma, se llaman:
+c
+A.- Cúmulos.
+B.- Nimbus.
+C.- Stratus.
+D.- Cirrus.
+100.- La nube más peligrosa para el vuelo es:
+b
+A.- Ns.
+B.- Cb.
+C.- Sc.
+D.- Ci.
+101.- La formación de hielo se torna menos peligrosa por debajo de los -10 C° salvo en cúmulos, cumulonimbos o nubes que se forman por ascenso orográfico.
+b
+A.- VERDADERO.
+B.- FALSO.
+102.- Las nubes que se forman en un frente cálido estable, son:
+b
+A.- De desarrollo vertical.
+B.- Estable y estratificadas.
+C.- Inestable y estratificadas.
+D.- Ninguna de las anteriores.
+103.- Para precisar la intensidad de una turbulencia, se dice que es ligera, cuando:
+c
+A.- Se desplazan los objetos no adheridos en el interior de la aeronave.
+B.- Existe dificultad para caminar dentro de una aeronave.
+C.- Son rápidas y un tanto rítmicas sin cambios apreciables de altitud o actitud.
+D.- Existe una vibración constante.
+104.- Las formaciones de hielo más severas se producen a temperaturas entre:
+a
+A.- 0° C y -15º C.
+B.- - 8° C y -14º C.
+C.- - 14° C y -30º C.
+D.- 0º C y -50º C.
+105.- En una atmósfera estable, una aeronave vuela en nubes con una temperatura exterior de - 5° C. El piloto puede esperar:
+a
+A.- Formación de hielo estructural del tipo granulado.
+B.- Formación de hielo estructural del tipo ice.
+C.- Escasa formación de hielo estructural.
+D.- Las alternativas A y B son correctas.
+106.- La niebla se forma cuando:
+c
+A.- Existe aire húmedo y gran densidad.
+B.- Las nubes descienden hasta el nivel del suelo.
+C.- El aire se enfría hasta su punto de rocío.
+D.- Existen procesos de mezcla adiabática.
+107.- ¿Cuál es el único tipo de nubosidad que se puede incluir en un TAF?
+b
+A.- Altocumulus.
+B.- Cumulonimbus.
+C.- Estratocumulus.
+D.- Cirrostratos.
+108.- ¿Dónde se ubica normalmente una baja térmica?
+c
+A.- Sobre la región antártica.
+B.- En el ojo de un huracán.
+C.- Sobre la superficie de una región seca y soleada.
+D.- Sobre la superficie de una región fría y húmeda.
+109.- Una consecuencia de una inversión térmica en superficie es:
+c
+A.- Corrientes convectivas en superficie.
+B.- Temperaturas frías.
+C.- Mala visibilidad.
+D.- Aire es inestable.
+110.- Una inversión de temperatura en superficie es normalmente producida por:
+c
+A.- El movimiento de aire frío bajo aire cálido o el movimiento de aire cálido sobre aire frío.
+B.- Aire descendiendo desde niveles altos produciendo calentamiento por compresión.
+C.- La pérdida de radiación terrestre en una noche despejada y relativamente calma.
+D.- Las corrientes convectivas.
+111.- Después del paso de un frente frío, la visibilidad es:
+a
+A.- Buena, excepto por chubascos.
+B.- Mala.
+C.- Regular a pobre con bruma.
+D.- Igual.
+112.- La relación que existe entre la humedad absoluta del aire y la humedad que existiría si estuviera saturado, se denomina:
+a
+A.- Humedad relativa.
+B.- Humedad absoluta.
+C.- Tensión de vapor.
+D.- Presión de Vapor.
+113.- Cuál es la formación nubosa turbulenta encontrada a sotavento de algunas barreras montañosas:
+a
+A.- Nube rotor.
+B.- Nube Muralla.
+C.- Nube Noctilucente.
+D.- Nube en banderola.
+114.- Al aproximarse a una colina o una montaña por el lado de __________, se recomienda sobrevolar la cima por lo menos a 2.000 pies sobre ellas.
+b
+A.- Barlovento.
+B.- Sotavento.
+C.- La pendiente Este.
+D.- La pendiente Oeste.
+115.- Cualquier frente no ocluido el cual se forma cuando el aire caliente reemplaza el aire más frío se llama:
+a
+A.- Frente cálido.
+B.- Frente frío.
+C.- Frente en altura.
+D.- Frente rígido.
+116.- Cualquier frente no ocluido el cual se forma cuando el aire frio reemplaza el aire más caliente se llama:
+a
+A.- Frente frio.
+B.- Frente cálido.
+C.- Frente en altura.
+D.- Frente rígido.
+117.- Indique qué significado tienen, respectivamente, las abreviaturas SCT y BKN en el METAR.
+c
+A.- Cielo cubierto (de 3 a 4 octavos), cielo cubierto (de 5 a 7 octavos).
+B.- Cielo cubierto (8 octavos), quebrado (de 5 a 7 octavos) y sin precipitación.
+C.- Cielo con nubes dispersas (de 3 a 4 octavos), cielo nublado (de 5 a 7 octavos).
+D.- Cielo con pocas nubes (de 2 a 3 octavos) sin lluvia y cielo quebrado (de 5 a 7 octavos) sin lluvia.
+118.- Un pronóstico de tendencia se abrevia como:
+d
+A.- TAF.
+B.- METAR.
+C.- AIREP.
+D.- TREND.
+119.- En los documentos consultados antes de iniciar el vuelo, se lee: “TAF SCEL 1512/1524”…, que se refiere a:
+b
+A.- El pronóstico de vientos y temperaturas en altura.
+B.- Las horas de validez del informe meteorológico.
+C.- Que el documento contiene el TAF y el METAR para la ruta.
+D.- El pronóstico de Aeródromo para Merino Benítez.
+120.- En el Pronóstico de Terminal que debe analizar antes de iniciar un vuelo usted lee: FTCH01 SCEL 160919 TAF SCSE 160919Z 161212 VRB03KT 3000 BR OVC005 TEMPO 1214 0800 FG BECMG 1416 28005KT 8000 SCT020 BECMG 1618 30010KT CAVOK TX15/19Z BECMG 0002 VRB02KT BECMG 0406 SCT020 TEMPO0612 OVC010 TN10/10Z= De este pronóstico se puede determinar qué:
+c
+A.- El pronóstico es válido para el 12 de junio del presente y fue emitido a las 10:57 UTC.
+B.- El pronóstico corresponde al día 21 del mes y es válido entre las 12.00 y las 12:00 hora local del día siguiente.
+C.- El pronóstico corresponde al día 16 del mes y es válido entre las 12.00 y las 12:00 hora UTC del día siguiente.
+D.- El pronóstico es válido entre las 12:00 y las 06:00 UTC.
+121.- En el siguiente pronostico de terminal: TAF SCSE 151545Z 1518/1618 27020 CAVOK TX19/15119 TN10/1912 TEMPO 0206 11005KT 8000 BKN180 BECMG 1604/1606 10005KT CAVOK BECMG 1614/1616 28005KT=. La base de las nubes pronosticadas es:
+c
+A.- 450 metros.
+B.- 1.500 pies AGL.
+C.- 18.000 pies.
+D.- Aproximadamente 1.450 pies AGL.
+122.- En el pronóstico de terminal que se analiza previo al vuelo, se lee: TAF SCIE 152150Z 1600/1624 01004KT 9999 FEW045 BECMG 1602/1604 SCT020 BKN140 BECMG 1614/1616 8000 –RA OVC050. En Carriel Sur la nubosidad pronosticada:
+b
+A.- Cambiará gradualmente a partir de las 14:45 UTC.
+B.- Aumentará en cantidad y disminuirán en altura a partir de las 02 UTC.
+C.- Disminuirá entre las 14 y 16 UTC.
+D.- Será BKN de CU a 600 metros.
+123.- En el pronóstico de terminal se lee: TAF SCEL 151545Z 1518/1618 19010KT 5000 HZ SCT010 SCT030 TX17/1519Z TN05/1610Z BECMG 1602/1604 36005KT BKN160 BECMG 1605/1607 22006KT SCT010 BKN120 PROB30 TEMPO 1605/1612 2000 BR SCT007= La visibilidad pronosticada en SCEL es:
+a
+A.- 2000 metros reducida por neblina entre las 05 y las 12 UTC.
+B.- 2000 metros reducida por humo entre las 05 y las 12 UTC.
+C.- 2000 metros reducida por bruma entre las 12 y las 16 UTC.
+D.- 2000 metros reducida por neblina entre las 12 y las 16 UTC.
+124.- En el Pronóstico de Terminal usted lee lo que sigue: SCSE 160919Z 1612/1712 VRB03KT 3000 BR OVC005 TX15/1619Z TN10/1710Z TEMPO 1612/1614 0800 FG BECMG 1614/1616 28005KT 8000SCT020 BECMG 1616/1618 30010KT CAVOK BECMG 1700/1702 VRB02KT BECMG 1704/1706 SCT020 TEMPO 0612 OVC010 = La nubosidad más baja pronosticada en SCSE:
+b
+A.- No es significativa
+B.- Tendrá 500 pies aprox. en la base.
+C.- Estará a 200 pies AGL.
+D.- Estará a 1000 metros SML.
+125.- Según los siguientes datos de Antofagasta: METAR SCFA 141200Z VRB02KT 9999 NSC 12/11 Q1015 NOSIG= La visibilidad y la nubosidad reportadas son respectivamente:
+a
+A.- Superior a 10 km y no significativa.
+B.- Inferior a 10 km y escasa.
+C.- Reducida y abundante.
+D.- 9 km y despejado.
+126.- Según la siguiente información del Aeródromo Rodelillo: METAR SCRD 151700Z VRB01KT 0400 FG 0VC002 15/15 Q1015= El fenómeno que reduce la visibilidad y el techo son respectivamente:
+a
+A.- Niebla y 200 pies.
+B.- Niebla y 600 metros.
+C.- Neblina y 20 metros.
+D.- Humo y 200 pies.
+127.- Según la siguiente información del Aeródromo de Atacama: METAR SCAT 161500Z 20008KT 180V240 7000 SKC 15/09 Q 1019= Los datos de viento informado son:
+c
+A.- 230 grados con 3 nudos y arrachado.
+B.- Calma, cambiando a variable.
+C.- 200 grados con 8 nudos, fluctuando entre los 180 grados y los 240 grados.
+D.- 200 grados con 3 nudos y variable.
+128.- Según la información meteorológica siguiente: METAR SCCI 161500Z 20010KT 9999 SCT016 SCT080 01/M01 Q0983 NOSIG= La cantidad y altura de las capas nubosas es respectivamente:
+c
+A.- Escasa a 160 metros; dispersa a 800 metros.
+B.- Dispersas a 1600 metros; dispersas a 8000 metros.
+C.- Dispersas a 1600 pies; dispersas a 8000 pies.
+D.- Escasa a 160 pies; escasas a 800 pies.
+129.- El METAR de Valdivia registra: METAR SCVD 211400Z 12003KT 4000 VCFG BKN020 04/03 Q1026= La visibilidad está restringida por:
+c
+A.- Niebla.
+B.- Niebla baja.
+C.- Niebla en la vecindad.
+D.- Niebla en bancos.
+130.- En Punta Arenas se informaron los siguientes datos: METAR SCCI 160800Z 29014G24KT 9999 FEW013 01/M03 Q0985 NOSIG= ¿Cuál es racha máxima del viento informado?:
+b
+A.- 29 KT.
+B.- 24 KT.
+C.- 14 KT.
+D.- 01 KT.
+131.- En METAR, la abreviatura NIL significa:
+d
+A.- Estación cerrada.
+B.- Instrumentos fuera de servicio.
+C.- Reparación de instalaciones.
+D.- Estación ausente o datos faltantes.
+132.- Según la siguiente información de Concepción: METAR SCIE 161500Z 02005KT CAVOK 12/07 Q1018= La abreviatura CAVOK determina que la visibilidad, el tiempo presente y las nubes son respectivamente:
+c
+A.- Ilimitada; sin precipitaciones; sin CB ni nubes bajo la altitud mínima del sector.
+B.- Superior a 5 KM; despejado; sin CB.
+C.- Superior a 10 Km; no hay CB ni nubes bajo 1500 m.
+D.- Ilimitada y despejado.
+133.- En el TAF de Rodelillo siguiente: TAF SCRD 141124Z 1412/1424 34005KT 8000 BKN050 TN10/12Z TX14/19Z TEMPO 1414/1416 18005KT 6000 -SHRA BKN015 BKN050 BECMG 1418/1420 16005KT 5000 -SHRA/RA BKN020= El viento, la visibilidad y el tiempo presente pronosticado entre las 18 y 20 UTC serán respectivamente:
+b
+A.- Variable con 3 KT; 6 KM ; chubasco de lluvia débil.
+B.- 160 grados con 5 KT; 5 KM ; Chubasco de lluvia débil y lluvia moderada.
+C.- 340 grados con 5 KT; 8 KM; sin precipitaciones.
+D.- 180 grados con 5 KT; 6 KM; chubasco de lluvia moderado.
+134.- La abreviatura BCFG usada en claves meteorológicas significa:
+d
+A.- Niebla.
+B.- Niebla baja.
+C.- Niebla en la vecindad.
+D.- Niebla en bancos.
+135.- La Tropósfera se caracteriza por:
+d
+A.- Contener prácticamente la totalidad la humedad de la atmósfera.
+B.- Tener en general, disminución de temperatura a medida que la altura aumenta.
+C.- Tener una altura promedio, en su parte más alta, de 20 km.
+D.- Todas las anteriores son correctas.
+136.- ¿Cuál de estos lugares es la ubicación común para inversiones de temperatura?
+d
+A.- La tropopausa.
+B.- La Exósfera.
+C.- La Ionósfera.
+D.- La Tropósfera.
+137.- Las Corrientes de Chorro (Jetstreams) normalmente se ubican en:
+b
+A.- La Estratósfera, en regiones de presiones muy bajas.
+B.- En la Troposfera cerca del nivel de la Tropopausa.
+C.- En una sola y continua banda rodeando la Tierra y donde se produce un quiebre entre la Tropopausa Ecuatorial y la Tropopausa Polar.
+D.- En la Troposfera, donde hay intenso gradientes de temperatura.
+138.- En un sistema de bajas presiones, el valor menor está en:
+b
+A.- El exterior.
+B.- El centro.
+C.- Los bordes.
+D.- Toda el área que abarca.
+139.- ¿Cuál es la nube más baja asociada con la onda de montaña?
+a
+A.- De rotor.
+B.- Lenticular estacionaria.
+C.- De estela.
+D.- Cumulonimbus.
+140.- En el Pronóstico siguiente: GAMET VALIDO 1506/1512 SCEL SANTIAGO FIR BLW FL150. Los datos se refieren a información:
+c
+A.- Transmitida entre las 06:00 y las 12:00 UTC
+B.- Que afecta al FIR SANTIAGO y habrá un cambio en las condiciones entre las 06 y 12 UTC.
+C.- Para el FIR SANTIAGO válida entre las 06:00 y 12:00 UTC.
+D.- Válida para el FIR SANTIAGO y pronostica una cambio desde las 00:00 UTC.
+141.- En un METAR, el viento de dirección variable se anota como VRB. Con un viento calma (hasta 2 nudos) aparecerá en el METAR como:
+c
+A.- 00003KT.
+B.- 00005KT.
+C.- 00000KT.
+D.- VRB03KT.
+142.- ¿Qué información entrega la sección I de la clave GAMET?
+c
+A.- Tiempo previsto para las 6 horas siguientes desde su emisión
+B.- Fenómenos significativos bajo 12.000 FT.
+C.- Fenómenos peligrosos bajo 15.000 FT
+D.- Sólo los datos que implican reducción de las condiciones VFR
+143.- Cuando NO se prevé la ocurrencia de algún fenómeno correspondiente a la Sección I, entonces en la clave GAMET se informará:
+a
+A.- Omitiendo la línea correspondiente
+B.- Con un grupo de diagonales
+C.- Mediante ceros
+D.- Especificando el fenómeno seguido de la abreviatura NIL
+144.- Si el inicio de una línea de la sección I de GAMET comienza con la abreviatura MTW, entonces la línea se refiere al pronóstico de:
+c
+A.- Turbulencia en disminución
+B.- Mayor turbulencia al oeste de la ruta
+C.- Ondas de montaña moderadas
+D.- Ondas de montaña débiles
+145.- Las capas nubosas pronosticadas en la Sección I de GAMET son:
+d
+A.- Sólo las del piso bajo
+B.- Las capas cuyo espesor excede los 4.000 FT.
+C.- Las cumuliformes cualquiera sea su altura y cantidad
+D.- Sólo CB y TCU cuya base sea inferior a 1.000 FT.
+146.- La abreviatura “VA” usada en claves GAMET, significa:
+a
+A.- Cenizas volcánicas
+B.- Variando
+C.- Valle
+D.- Valparaíso
+147.- La abreviatura FZLVL usada en la Sección II de la clave GAMET significa:
+c
+A.- Niebla en los niveles bajos
+B.- Bruma en las horas indicadas
+C.- Pronóstico de la altitud de la isoterma cero
+D.- Dispersión de la niebla en los valles
+148.- Según los datos especificados más abajo, determine la temperatura a 7.000 FT en el tramo Isla Robinson Crusoe Y Viña del Mar. SEC II PSYS: H 1024 S33 W087 STNR NC WIND/TEMP ALTITUD SCSE SCEL SCEL SCTC SCIR SCVM 020HFT AMSL 060/05KT PS13 180/10KT PS11 190/15KT PS10 050HFT AMSL 100/10KT PS10 180/15KT PS09 190/15KT PS07 070HFT AMSL 030/15KT PS04 140/15KT PS06 190/15KT PS05 100HFT AMSL 030/15KT MS00 120/20KT PS02 180/15KT MS00 150HFT AMSL 020/15KT MS08 090/25KT MS07 200/25KT MS10 FZLVL: 100 HFT AMSL 110 HFT AMSL 100 HFT AMSL
+a
+A.- +5º C
+B.- +2º C
+C.- +4º C
+D.- +6º C
+149.- Del fragmento de clave GAMET especificado más abajo, descifre la información de la primera línea de la sección I: VALID 140000/140600 SCFA ANTOFAGASTA FIR BLW FL150 SECN I TURB: MOD OCNL BLW FL050 COT BTN SCFA SCSE SIG CLD: 05/06 OVC 008/012 HFT AMSL COT BTN SCRA SCSE
+b
+A.- Cielo cubierto por nubes bajas entre las 08 y 12 UTC.
+B.- Turbulencia moderada ocasional bajo en 50 en la costa, entre Antofagasta y La Serena.
+C.- Tormentas ocasionales en todo el FIR Antofagasta
+D.- Nubes significativas en la costa del FIR Antofagasta
+150.- Según los datos proporcionados más abajo en clave GAMET, determine el viento pronosticado para 5.000 FT entre Arica y Antofagasta. WIND/T: ALTITUD SCAR/SCFA SCFA/SCSE 020HFT AMSL 180/10KT PS15 170/20KT PS18 050HFT AMSL 090/02KT PS15 170/05KT PS17 070HFT AMSL 060/02KT PS14 020/02KT PS15 100HFT AMSL 120/10KT PS10 010/10KT PS09 150HFT AMSL 210/10KT PS04 240/10KT PS00
+c
+A.- 20º con 10 nudos
+B.- 120º con 10 nudos
+C.- 90º con 2 nudos
+D.- 20º con 2 nudos
+151.- ¿Cuál es la altura de la isoterma cero pronosticada en el sector de Puerto Montt? Obtenga el dato en el siguiente fragmento de la clave GAMET. SECN II PSYS MARGEN DE ALTA PRESION CLD BKN SC 020/060 HFT AGL BTN SCMA SCRF WIND/TEMP ALTITUD SCTC SCON SCON LAT 47S 020HFT AMSL 180/07KT PS13 280/07KT PS10 050HFT AMSL 180/07KT PS10 290/10KT PS05 070HFT AMSL 270/07KT PS05 270/15KT PS02 100HFT AMSL 310/07KT PS01 270/20KT MS02 150HFT AMSL 320/10KT MS11 270/25KT MS11 FZLVL 105 HFT AMSL 080 HFT AMSL MNM QNH 1017 HPA=
+c
+A.- 10.500 FT sobre el nivel medio del mar
+B.- 105 FT sobre el terreno
+C.- 8.000 FT sobre el nivel medio del mar
+D.- 800 FT sobre el terreno
+152.- Según el fragmento de GAMET entregado más abajo ¿Cual es la nubosidad y altura pronosticada? GAMET VALID 140600/141200 SCCI- PUNTA ARENAS FIR BLW FL150 SECN I SFC WSPD: 30KT COT S OF S47W78 N OF S55W71 35/45KT S OF S60W63 SFC VIS: 3000 M RA/RADZ S OF S47 N OF S54 MT OBSC: MT S OF S47 N OF S55 SIG CLD: ISOL TCU 015/150HFT S OF S50W78
+d
+A.- Cúmulos nimbus a 450 m en su base
+B.- Cúmulos entre 15 FT de base y 150 FT de tope
+C.- Cúmulos potentes a 1500 Ft en su base
+D.- Cúmulos potentes aislados entre 1500 FT y 15.000 FT
+153.- Del fragmento correspondiente a la Sección II de GAMET, obtenga el viento pronosticado a 7000 FT en el tramo central del FIR. WIND/T: S OF S47 N OF S52 S OF S52 N OF S56 S OF S56 N OF S60 020HFT 330/20KT PS06 010/10KT PS03 290/20KT PS02 050HFT 300/30KT PS00 330/25KT MS02 280/30KT MS05 070HFT 300/45KT MS05 320/40KT MS07 280/35KT MS10 100HFT 300/50KT MS08 310/50KT MS10 290/35KT MS14 150HFT 300/80KT MS20 300/60KT MS23 280/50KT MS27
+b
+A.- 300º con 45 nudos
+B.- 320º con 40 nudos
+C.- 300º con 50 nudos
+D.- 280º con 35 nudos
+154.- Cuál es la Tª pronosticada a 5.000 FT en los tramos indicados respectivamente, en el siguiente fragmento de GAMET? WIND/TEMP ALTITUD SCTC SCON SCON LAT 47S 020HFT AMSL 180/07KT PS13 280/07KT PS10 050HFT AMSL 180/07KT PS10 290/10KT PS05 070HFT AMSL 270/07KT PS05 270/15KT PS02 100HFT AMSL 310/07KT PS01 270/20KT MS02 150HFT AMSL 320/10KT MS11 270/25KT MS11 FZLVL 105 HFT AMSL 080 HFT AMSL
+b
+A.- 7º C y 5º C
+B.- 10º C y 5º C
+C.- 7º C y 2º C
+D.- Menos 11º C en ambos
+155.- ¿Qué tipo de formación de hielo se pronostica en el siguiente fragmento de clave GAMET? SECN I SFC VIS: 3000 M RA/RADZ S OF S47 N OF S54 SIG CLD: ISOL TCU 015/150HFT S OF S50W78 ICE: MOD OCNL INC BTN FL050/FL150 S OF S47 N OF S52 MOD OCNL INC BTN FL030/150 S OF S52 N OF S60
+c
+A.- Aislado en el interior de Nubes cumuliformes
+B.- Moderado dentro de las nubes CU
+C.- Moderado ocasional dentro de las nubes
+D.- Moderado y aislado bajo las nubes
+156.- Según los datos entregados en el fragmento de GAMET: ¿Qué tipo de turbulencia se pronostica? SECN I SIG CLD: ISOL TCU 015/150HFT S OF S50W78 ICE: MOD OCNL INC BTN FL050/FL150 S OF S47 N OF S52 MOD OCNL INC BTN FL030/150 S OF S52 N OF S60 TURB: MOD OCNL BLW FL05 S OF S49 N OF S54 MOD OCNL ABV FL090 S OF S49 N OF S56 SUBSIDENCIA
+b
+A.- Aislada bajo las nubes
+B.- Moderada ocasional
+C.- Moderada dentro de las nubes
+D.- Ligera dentro y fuera de las nubes
+157.- Si no se pronostica ningún fenómeno significativo a causa de buen tiempo, entonces la Sección I de GAMET se:
+c
+A.- Omite
+B.- Informa como SECN I 00000
+C.- Especifica como ”Peligrosos NIL”
+D.- Se reporta como WX OFF
+158.- Las capas nubosas que se informan en la sección I de la clave GAMET. se refieren a:
+d
+A.- Nubes aisladas o capas de nubosidad convectiva
+B.- Capas extensas del piso bajo o medio
+C.- Nubes aisladas o capas que cubren más de 4/8
+D.- CB y/o TCU cuya base esté bajo 1.000 FT cualquiera sea su cantidad
+159.- En la clave GAMET: ¿Cuál es el significado de la abreviatura PSYS?
+b
+A.- Temperatura positiva
+B.- Sistemas de presión y frentes
+C.- Fenómenos peligrosos
+D.- No hay sistemas frontales
+160.- La sucesión nubosa de un frente frío es Ci, Cs, Cb o Tcu y Cu.
+a
+A.- VERDADERO.
+B.- FALSO.
+161.- Las nubes pronosticadas en la sección II de la clave GAMET, serán aquellas:
+b
+A.- Que reducen el techo bajo los mínimos VFR.
+B.- Cuya cantidad es BKN u OVC si su base está entre 1.000 FT. y FL150.
+C.- Que se presentan en cantidades de 4/8 o más.
+D.- Que generan precipitaciones.
+162.- La Sección II de la clave GAMET informa solo aquella nubosidad que:
+b
+A.- Provocará precipitaciones durante el período de validez.
+B.- Cuya cantidad sea BKN u OVC entre 1.000 y FL150.
+C.- Cubran completamente el cielo y estén en el piso bajo.
+D.- Esté asociada a inestabilidad cualquiera sea su cantidad.
+163.- Los vientos máximos asociados al jetstream generalmente ocurren en:
+a
+A.- Las vecindades de los quiebres de la tropopausa en el lado polar del núcleo del jet.
+B.- Bajo el núcleo del Jet donde se ubica una larga y recta franja del jetstream.
+C.- En el lado ecuatorial del jetstream, donde la humedad ha formado nubes del tipo cirros.
+D.- En el lado septentrional del del jetstream, donde la humedad ha formado nubes.
