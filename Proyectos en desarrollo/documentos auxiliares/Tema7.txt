@@ -1,0 +1,911 @@
+1.- El procedimiento de falla de comunicaciones, para aeronaves operando en condiciones meteorológicas visuales es:
+d
+A.- Proseguirá su vuelo en condiciones meteorológicas de vuelo visual.
+B.- Aterrizará en el aeródromo adecuado más próximo.
+C.- Notificará su llegada, por el medio más rápido, a la dependencia apropiada del control de tránsito aéreo.
+D.- A, B y C son correctas.
+2.- Toda aeronave civil que sobrevuele zonas prohibidas y restringidas sin autorización, puede ser interceptada y guiada fuera de estas zonas o puede recibir instrucciones para que aterrice en un aeródromo designado.
+a
+A.- VERDADERO.
+B.- FALSO.
+3.- Los niveles de crucero a que ha de efectuarse un vuelo o parte de él se referirán a:
+c
+A.- Niveles de vuelo para los vuelos que se efectúen a un nivel igual o superior al nivel de vuelo más bajo utilizable o, cuando corresponda, para los vuelos que se efectúen por encima de la altitud de transición.
+B.- Altitudes, para los vuelos que se efectúen por debajo del nivel de vuelo más bajo utilizable o, cuando corresponda, para los vuelos que se efectúen a la altitud de transición o por debajo de ella.
+C.- A y B son verdaderas.
+D.- A y B son falsas.
+4.- Cuando dos o más aerodinos se aproximen a un aeródromo para aterrizar, cederá el paso:
+b
+A.- El que esté a menor nivel.
+B.- El que esté a mayor nivel.
+C.- El que esté a la derecha.
+D.- El que esté en aproximación final.
+5.- El piloto al mando de toda aeronave que esté siendo objeto de actos de interferencia ilícita debe hacer lo posible por notificar a la dependencia ATS pertinente este hecho, dejando como última opción el aterrizaje de la aeronave, a fin de recurrir de inmediato a los procedimientos de interceptación de aeronaves civiles.
+b
+A.- VERDADERO.
+B.- FALSO.
+6.- De acuerdo a las mínimas VMC de visibilidad y distancia de las nubes, dentro del espacio aéreo controlado y por encima de 1000 pies sobre el terreno, pero por debajo de FL 100, las aeronaves para operar VFR deberán mantener una visibilidad de:
+c
+A.- 8 Km.
+B.- 6 Km.
+C.- 5 Km.
+D.- 2 Km.
+7.- Si Ud. vuela VFR en rumbo 075 grados deberá mantener un nivel de vuelo de:
+d
+A.- FL 65.
+B.- FL 60.
+C.- FL 70.
+D.- FL 75.
+8.- Una aeronave, apagando y encendiendo sucesivamente los faros de aterrizaje, está indicando una señal de peligro grave e inminente y pide ayuda inmediata.
+b
+A.- VERDADERO.
+B.- FALSO.
+9.- Los vuelos VFR no se deben efectuar:
+d
+A.- Sobre aglomeraciones de edificios en ciudades, pueblos o lugares habitados, o sobre una reunión de personas al aire libre a una altura menor de 300 metros (1.000 pies) sobre el obstáculo más alto situado dentro de un radio de 600 metros (2.000 pies) desde la aeronave.
+B.- En cualquier otra parte distinta de la especificada anteriormente, a una altura de 150 metros (500 pies) sobre tierra o agua.
+C.- A alturas menores antes señaladas, excepto cuando sea necesario para el despegue o el aterrizaje, o cuando se tenga permiso de la autoridad aeronáutica.
+D.- Todas las anteriores son verdaderas.
+10.- La señal de serie de destellos blancos emitida desde la dependencia del servicio de control de aeródromo (TWR) a las aeronaves en vuelos, significa:
+d
+A.- Autorizado para aterrizar.
+B.- Regrese para aterrizar.
+C.- Aeródromo peligroso, no aterrice.
+D.- Aterrice en este aeródromo y diríjase a la plataforma.
+11.- La señal de serie de destellos rojos emitida desde la dependencia del servicio de control de aeródromo (TWR) a las aeronaves en tierra, significa:
+c
+A.- Aeródromo peligroso.
+B.- Aterrice en este Aeródromo.
+C.- Apártese del área de aterrizaje en uso.
+D.- Regrese al punto de partida.
+12.- Área definida, en un aeródromo terrestre, destinada a dar cabida a las aeronaves, para los fines de embarque o desembarque de pasajeros, correo o carga, abastecimiento de combustible, estacionamiento o mantenimiento, se denomina:
+b
+A.- Estación aeronáutica.
+B.- Plataforma.
+C.- Calles de rodaje.
+D.- Área de maniobras.
+13.- Cuando dos aeronaves se aproximen de frente o casi de frente, y haya peligro de colisión, ambas aeronaves deben alterar su rumbo hacia la:
+c
+A.- Izquierda.
+B.- No alterarán su rumbo.
+C.- Derecha.
+D.- Ninguna de las anteriores.
+14.- La ubicación y color de las luces de navegación son: Punta de Ala Izquierda Verde, a la derecha Roja y color Blanca.
+b
+A.- VERDADERO.
+B.- FALSO.
+15.- Cuando se sepa que los medios de comunicación en el aeródromo de llegada son inadecuados y no se disponga en tierra de otros medios para el despacho de mensajes de llegada, la aeronave transmitirá a la dependencia de servicios de tránsito aéreo apropiada inmediatamente antes de aterrizar, si es posible, un mensaje similar al de un informe de llegada, que contenga:
+c
+A.- Información de un próximo vuelo.
+B.- Ud. no transmitirá ningún mensaje, ya que la autoridad ATS al transcurrir el tiempo de vuelo programado, cancelara su plan de vuelo porque sabe que no puede comunicarse.
+C.- Identificación de la aeronave; Aeródromo de salida; Aeródromo de destino (solamente si el aterrizaje no se efectuó en el aeródromo de destino); Aeródromo de llegada y Hora de llegada.
+D.- Todas las anteriores son falsas.
+16.- Un panel cuadrado, rojo y horizontal, con una diagonal amarilla, cuando esté colocado en un área de señales, indica que:
+b
+A.- Está prohibido aterrizar.
+B.- Debido al mal estado del área de maniobras o por cualquier otra razón, deben tomarse precauciones especiales durante la aproximación para aterrizar, o durante el aterrizaje.
+C.- Autoriza sólo el uso de pistas y de calles de rodaje.
+D.- Las pistas o calles de rodaje están cerradas al tránsito.
+17.- ¿Cuál es la sigla que se utiliza para identificar el servicio de información de vuelo de aeródromo?
+d
+A.- ATIS.
+B.- ATS.
+C.- ARO.
+D.- AFIS.
+18.- Persona encargada de la operación, mando y funcionamiento de la aeronave o sus partes que cumple funciones esenciales, durante el período de servicio de vuelo, se denomina a:
+c
+A.- Miembro de la tripulación.
+B.- Piloto.
+C.- Miembro de la tripulación de vuelo.
+D.- Ninguna de las anteriores.
+19.- Cuando un baroaltímetro de tipo de presión, calibrado de acuerdo con la atmósfera tipo, se ajuste a la presión de 1013.2 hPa o 29,92 Pulgadas de Hg, podrá usarse para indicar:
+c
+A.- Altura.
+B.- Altitud.
+C.- Nivel de Vuelo.
+D.- Elevación.
+20.- ¿Cuándo se considera que una aeronave está en las inmediaciones de un aeródromo?
+b
+A.- Cuando está operando dentro de una zona instrucción conocida.
+B.- Cuando está dentro de un circuito de tránsito de aeródromo, o bien entrando o saliendo del mismo.
+C.- A y B son verdaderas.
+D.- A y B son falsas.
+21.- Espacio Aéreo de dimensiones definidas en el cual puede desplegarse en determinados momentos actividades peligrosas para el vuelo de las aeronaves, se denomina:
+c
+A.- Zona prohibida.
+B.- Zona restringida.
+C.- Zona peligrosa.
+D.- Ninguna de las anteriores.
+22.- ¿Quiénes cederán el paso a las aeronaves que estén despegando o por despegar?
+c
+A.- Aviones livianos a aviones pesados.
+B.- Aviones particulares a aviones comerciales.
+C.- Toda aeronave en rodaje en el área de maniobras de un aeródromo.
+D.- A y B son correctas.
+23.- La autorización para rodar hacia una pista en un aeródromo controlado, permite cruzar intersecciones de pista, pero no para despegar.
+b
+A.- VERDADERO.
+B.- FALSO.
+24.- En aquellas oportunidades en que aspectos de carácter geográfico impidan las comunicaciones y no sea posible presentar o cancelar un Plan de Vuelo para dar cumplimiento a los párrafos anteriores y el piloto al mando desee presentar un plan de vuelo hasta y desde el punto de destino, anotará en el formulario Plan de Vuelo, como dato adicional:
+c
+A.- No registrará ningún dato adicional.
+B.- El aeródromo de destino.
+C.- La fecha y hora de regreso prevista, debiendo eso sí garantizar su cumplimiento para evitar la activación inoficiosa del servicio de Alerta.
+D.- A y B son correctas.
+25.- A menos que la torre de control especifique otra cosa, todos los virajes del circuito de tránsito deben efectuarse:
+d
+A.- Al final de la pista.
+B.- Al inicio de la pista.
+C.- A la derecha.
+D.- A la izquierda.
+26.- Ud. actuará en Chile como miembro de la tripulación de vuelo o de la tripulación auxiliar de una aeronave civil matriculada en el extranjero, a menos que:
+b
+A.- Sea titular de una licencia Chilena.
+B.- Sea titular de una licencia válida correspondiente a sus funciones que le haya otorgado el Estado de la matrícula de la aeronave, o que haya otorgado otro Estado y convalidado el Estado de matrícula.
+C.- Sea autorizado solamente por el dueño de la aeronave.
+D.- A y C son correctas.
+27.- Ninguna persona actuará como miembro de la tripulación de vuelo o miembro de la tripulación auxiliar de una aeronave civil matriculada en Chile, a menos que sea titular de una licencia apropiada a sus funciones, otorgada por la Dirección General de Aeronáutica Civil (DGAC):
+a
+A.- VERDADERO.
+B.- FALSO.
+28.- Durante el tiempo de vuelo, el piloto al mando es el encargado de:
+d
+A.- La dirección de la aeronave.
+B.- Su operación segura de acuerdo con las regulaciones de circulación aérea y el manual de vuelo.
+C.- No tendrá ninguna responsabilidad a bordo.
+D.- A y B son correctas.
+29.- Si Ud. ha infringido los reglamentos o procedimientos locales a causa de una emergencia, ¿qué debe hacer?.
+a
+A.- Notificar sin demora a las autoridades locales competentes.
+B.- Si la emergencia ha sido controlada con éxito, continuar en forma normal.
+C.- A y B son correctas.
+D.- A y B son falsas.
+30.- Los pilotos al mando dispondrán a bordo de las aeronaves, de toda la información esencial relativa a los servicios de búsqueda y salvamento del área sobre la cual vayan a volar.
+a
+A.- VERDADERO.
+B.- FALSO.
+31.- La información aeronáutica Chilena, de carácter permanente y que es esencial para la navegación aérea, se pública en dos volúmenes, que son:
+c
+A.- AIP CHILE y NOTAMS.
+B.- AIP MAP y NOTAMS.
+C.- AIP-CHILE Volumen I y AIP-CHILE Volumen II.
+D.- GEN y ENR.
+32.- De acuerdo al Código Aeronáutico, el Comandante de la Aeronave es:
+c
+A.- La única y máxima autoridad a bordo, encargado de la dirección de la aeronave y principalmente responsable de su conducción segura.
+B.- El que tiene potestad disciplinaria sobre la tripulación, autoridad sobre los pasajeros y el control total sobre la aeronave y la carga transportada.
+C.- A y B son correctas.
+D.- A y B son falsas.
+33.- La autoridad aeronáutica tiene la facultad de controlar e inspeccionar a las aeronaves, a su tripulación y a las personas y cosas transportadas a bordo.
+a
+A.- VERDADERO.
+B.- FALSO.
+34.- Todas las matrículas de aeronaves de Chile comienzan con las letras:
+d
+A.- CA.
+B.- CH.
+C.- CK.
+D.- CC.
+35.- Distancia vertical entre un punto o un nivel de la superficie de la tierra, o unido a ella, y el nivel medio del mar, se denomina:
+c
+A.- Altitud.
+B.- Altura.
+C.- Elevación.
+D.- Techo.
+36.- Cuando un baroaltímetro del tipo de presión, calibrado de acuerdo con la atmósfera tipo, se ajuste a un reglaje QNH, indicará:
+b
+A.- Altura.
+B.- Altitud.
+C.- Nivel de vuelo.
+D.- Cualquiera de las anteriores.
+37.- Dependencia establecida para facilitar servicio de control de tránsito aéreo a los vuelos controlados en las áreas de control bajo su jurisdicción, se denomina:
+c
+A.- Oficina de Notificación de los servicios de tránsito aéreo (ARO).
+B.- Dependencia de control de tránsito aéreo.
+C.- Centro de control de área (ACC).
+D.- Dependencia de servicio de tránsito.
+38.- Región de información de vuelo (FIR), es un espacio aéreo de dimensiones definidas, dentro del cual se facilitan los servicios de información de vuelo y de alerta.
+a
+A.- VERDADERO.
+B.- FALSO.
+39.- Salvo que la autoridad aeronáutica lo autorice de otro modo, los vuelos VFR se deben realizar sólo dentro del período comprendido entre:
+b
+A.- El FCCV y el CCCM.
+B.- El CCCM y el FCCV.
+C.- A y B son correctas.
+D.- Ninguna de las anteriores.
+40.- De acuerdo a la tabla de niveles de crucero, si Ud. vuela al rumbo 050 grados en un vuelo VFR, deberá mantener niveles:
+c
+A.- Impares.
+B.- Pares.
+C.- Impares más 500 pies.
+D.- Pares más 500 pies.
+41.- El objeto de la luz anticolisión es de llamar la atención hacia la aeronave.
+a
+A.- VERDADERO.
+B.- FALSO.
+42.- Dentro de las Luces que deben ostentar las aeronaves, tenemos las luces de navegación cuyo objeto será el indicar la trayectoria relativa de la aeronave a los observadores y no se ostentarán otras luces si estas pueden confundirse con las luces antes mencionadas.
+a
+A.- VERDADERO.
+B.- FALSO.
+43.- Cruces de un solo color de contraste, amarillo o blanco, colocadas horizontalmente en las pistas y calles de rodaje o partes de las mismas, indican que:
+c
+A.- El uso de pistas y calles de rodaje están disponibles para el tránsito.
+B.- No existe prohibición de aterrizaje.
+C.- El área no es utilizable para el movimiento de aeronaves.
+D.- Hay una necesidad de precauciones especiales durante la aproximación y el aterrizaje.
+44.- Aeródromo público que se encuentra habilitado para la salida y llegada de aeronaves en vuelos internacionales, se denomina:
+c
+A.- Aeródromo.
+B.- Pista.
+C.- Aeropuerto.
+D.- Todas las anteriores son correctas.
+45.- Servicio de control de tránsito aéreo para el tránsito de aeródromo, se denomina:
+b
+A.- Servicio de control de aproximación.
+B.- Servicio de control de aeródromo.
+C.- Servicio de control de área.
+D.- Servicio de control de tránsito aéreo.
+46.- ¿Cuál es el período de vigencia de los certificados médicos para la licencia de piloto privado menor de 40 años?
+c
+A.- 12 meses.
+B.- 06 meses.
+C.- 24 meses.
+D.- Ninguna de las anteriores.
+47.- Toda área delimitada, terrestre o acuática habilitada por la autoridad aeronáutica y destinada a la llegada, salida y maniobra de aeronaves en la superficie, se llama:
+a
+A.- Aeródromo.
+B.- Aeródromo controlado.
+C.- Aeródromo de alternativa.
+D.- Aeropuerto.
+48.- Los tipos de aeródromo de alternativa que existen son:
+d
+A.- Aeródromo de alternativa post despegue.
+B.- Aeródromo de alternativa en ruta.
+C.- Aeródromo de alternativa de destino.
+D.- Todas las anteriores son verdaderas.
+49.- Distancia vertical entre un nivel, punto u objeto considerado como punto, y una referencia específica, se denomina:
+c
+A.- Altitud de presión.
+B.- Altitud de transición.
+C.- Altura.
+D.- Ninguna de las anteriores.
+50.- La parte del aeródromo que ha de utilizarse para el despegue, el aterrizaje y el rodaje de aeronaves, excluyendo las plataformas, se denomina:
+a
+A.- Área de maniobras.
+B.- Área de movimiento.
+C.- Área de control.
+D.- Altitud de aterrizaje.
+51.- Expresión de la presión atmosférica mediante la altitud que corresponde a esa presión en la atmósfera tipo.
+c
+A.- Altura.
+B.- Altitud de transición.
+C.- Altitud de presión.
+D.- Altitud.
+52.- La expresión "AERODROMO CONTROLADO", significa que es un Aeródromo en que se facilita servicio de control de tránsito aéreo para el tránsito del aeródromo.
+a
+A.- VERDADERO.
+B.- FALSO.
+53.- El símbolo usado para designar las condiciones meteorológicas de vuelo visual, es:
+c
+A.- VFR.
+B.- IMC.
+C.- VMC.
+D.- IFR.
+54.- El espacio aéreo controlado que se extiende hacia arriba desde la superficie terrestre hasta un límite superior especificado, se denomina:
+c
+A.- Zona de tránsito de aeródromo.
+B.- Zona restringida.
+C.- Zona de control.
+D.- Zona prohibida.
+55.- Techo de nubes, es la altura a que, sobre la tierra o el agua, se encuentra la base de la capa inferior de nubes por debajo de 3000 m (9000 ft) y que cubre más de la mitad del cielo.
+d
+A.- VERDADERO.
+B.- FALSO.
+56.- En el caso de que exista peligro de colisión entre dos aeronaves en rodaje en el área de movimiento de un aeródromo, se aplicará lo siguiente:
+d
+A.- Cuando dos aeronaves se aproximen de frente, o casi de frente, ambas se detendrán o de ser posible, alterarán su rumbo hacia la derecha para mantenerse a suficiente distancia.
+B.- Cuando dos aeronaves se encuentren en un rumbo convergente, la que tenga a la otra a su derecha cederá el paso.
+C.- Toda aeronave que sea alcanzada por otra tendrá el derecho de paso y la aeronave que la alcance se mantendrá a suficiente distancia de la trayectoria de la otra aeronave.
+D.- Todas las anteriores son verdaderas.
+57.- La información referente al vuelo proyectado o a parte del mismo, que ha de suministrarse a las dependencias de los servicios de tránsito aéreo, se dará en forma de plan de vuelo. Este se presentará antes de realizar:
+d
+A.- Cualquier vuelo o parte del mismo al que tenga que prestarse servicio de control de tránsito aéreo.
+B.- Cualquier vuelo dentro de áreas designadas o a lo largo de rutas designadas, cuando así lo requiera la autoridad ATS competente para facilitar el suministro de servicios de información de vuelo, de alerta y de búsqueda y salvamento.
+C.- Todo vuelo a través de fronteras internacionales.
+D.- Todas las anteriores.
+58.- En vuelos VFR no se debe despegar ni aterrizar en ningún aeródromo dentro de una zona de control, ni se debe entrar en la zona de tránsito de aeródromos o en el circuito de tránsito de dicho aeródromo, si el techo de nubes y la visibilidad en tierra es inferior a:
+c
+A.- 300 metros y 1,5 Km.
+B.- 300 metros y 5 Km.
+C.- 450 metros y 5 Km.
+D.- 450 metros y 8 Km.
+59.- De acuerdo a la Tabla de Niveles de Crucero, para los vuelos VFR, estos se iniciarán a partir del nivel:
+d
+A.- FL30 ó 3000 FT de Altitud.
+B.- FL35 ó 3500 FT de Altitud.
+C.- FL45 ó 4500 FT de Altitud.
+D.- B y C son correctas según curso magnético a volar. 60.- De acuerdo a la tabla de niveles de crucero, si Ud. vuela al rumbo 355 grados, en un vuelo VFR, deberá mantener niveles:
+d
+A.- Impares.
+B.- Pares.
+C.- Impares más 500 pies.
+D.- Pares más 500 pies.
+61.- De acuerdo a la tabla de niveles de crucero, si Ud. vuela al rumbo 165 grados en un vuelo VFR deberá mantener el nivel de:
+d
+A.- FL 65.
+B.- FL 60.
+C.- FL 70.
+D.- FL 75.
+62.- Vuelo VFR Especial, es un Vuelo VFR al que el control de tránsito aéreo ha concedido autorización, de acuerdo a los requisitos establecidos por la autoridad aeronáutica y sólo para ingresar o salir de zonas de control y que vayan a aterrizar o despegar de o en aeródromos situados dentro de las mismas, en condiciones meteorológicas inferiores a las VMC.
+a
+A.- VERDADERO.
+B.- FALSO.
+63.- Vuelos VFR Nocturno, es aquel Vuelo realizado durante el período comprendido entre el fin del crepúsculo civil vespertino (FCCV) y el comienzo del crepúsculo civil matutino (CCCM), de acuerdo a las reglas de vuelo visual y a los requisitos que establezca la autoridad aeronáutica.
+a
+A.- VERDADERO.
+B.- FALSO.
+64.- Una aeronave apagando y encendiendo sucesivamente las luces de navegación, de forma tal, que se distingan de las luces de navegación de destellos. Significa que desea avisar que tiene dificultades que la obligan a aterrizar, pero no necesita asistencia inmediata.
+a
+A.- VERDADERO.
+B.- FALSO.
+65.- El servicio de control de área es el servicio de control de tránsito aéreo para la llegada y salida de vuelos controlados.
+b
+A.- VERDADERO.
+B.- FALSO.
+66.- El vuelo VFR nocturno, es una excepción al vuelo VFR y podrá ser realizado en zonas designadas por la autoridad aeronáutica competente, bajo condiciones que esta determine en los procedimientos (DAP) correspondientes.
+a
+A.- VERDADERO.
+B.- FALSO.
+67.- Luz verde fija, tanto en aire como en tierra significa:
+d
+A.- Autorizado para aterrizar.
+B.- Autorizado para despegar.
+C.- Alto.
+D.- A y B son correctas.
+68.- Las listas de verificación serán utilizadas por las tripulaciones de vuelo, Antes, Durante y Después de todas las fases de las operaciones y en caso de emergencias, a fin de asegurar que se cumplen los procedimientos operacionales contenidos en los manuales:
+a
+A.- VERDADERO.
+B.- FALSO.
+69.- La proyección sobre la superficie terrestre de la trayectoria de una aeronave, cuya dirección en cualquier punto se expresa generalmente en grados a partir del norte (geográfico, magnético o de la cuadrícula), se denomina:
+d
+A.- Navegación.
+B.- Rumbo.
+C.- Vía.
+D.- Derrota.
+70.- Los objetivos de los Servicios de Tránsito Aéreo, son:
+d
+A.- Prevenir colisiones entre aeronaves, Prevenir colisiones entre aeronaves en el área de maniobras y entre esas y los obstáculos que haya en dicha área.
+B.- Acelerar y mantener ordenadamente el movimiento del tránsito aéreo y proporcionar información útil para la marcha segura y eficaz del vuelo.
+C.- Notificar a los organismos pertinentes respecto a las aeronaves que necesitan ayuda de búsqueda y salvamento prestando la mayor colaboración posible a dichos organismos según se requiera.
+D.- A, B y C son correctas.
+71.- Las aeronaves no volarán en formación excepto mediante arreglo previo entre los pilotos al mando de las aeronaves participantes y, para vuelos en formación en el espacio aéreo controlado, de conformidad con las condiciones prescritas por las autoridades ATS competentes.
+a
+A.- VERDADERO.
+B.- FALSO.
+72.- Cuando dos aeronaves convergen a un nivel aproximadamente igual, los aerodinos propulsados cederán el paso a:
+d
+A.- Dirigibles.
+B.- Planeadores.
+C.- Globos.
+D.- Todas las anteriores son verdaderas.
+73.- El objeto de las luces de navegación es el de indicar a los observadores, la trayectoria relativa de la aeronave.
+a
+A.- VERDADERO.
+B.- FALSO.
+74.- Las aeronaves que operen en un aeródromo o en sus cercanías, tanto si se hallan o no en una zona de tránsito de aeródromo, deberán entre otras:
+d
+A.- Observar el tránsito de aeródromo, a fin de evitar colisiones.
+B.- Se ajustarán o evitarán el circuito de tránsito formado por otras aeronaves en vuelo, o evitarlo.
+C.- Hacer todos los virajes hacia la izquierda al aproximarse para aterrizar y después del despegue, a menos que se les ordene lo contrario.
+D.- Todas las anteriores son verdaderas.
+75.- La presentación del plan de vuelo en cualquiera de sus formas, no garantiza la provisión del servicio de alerta.
+b
+A.- VERDADERO.
+B.- FALSO.
+76.- Toda aeronave que opere como vuelo controlado, mantendrá una escucha constante en la radiofrecuencia apropiada, de la dependencia correspondiente de control de tránsito aéreo y cuando sea necesario establecerá comunicación en ambos sentidos con la misma.
+a
+A.- VERDADERO.
+B.- FALSO.
+77.- El acuse de recibo por parte de una aeronave con falla comunicaciones, en vuelo, durante las horas de luz diurna, es:
+c
+A.- Emitiendo destellos dos veces con los faros de aterrizaje de la aeronave, si no tiene, encendiendo y apagando dos veces las luces de navegación.
+B.- Moviendo los alerones o el timón de dirección.
+C.- Balanceando las alas de la aeronave.
+D.- Ninguna de las anteriores es verdadera.
+78.- Se denomina aeronave que alcanza a la que se aproxima a otra por detrás, siguiendo una línea que forme un ángulo menor de 70 grados con el plano de simetría de la que va delante.
+a
+A.- VERDADERO.
+B.- FALSO.
+79.- En un Plan de Vuelo (ATC-1) no es necesario que Ud. tache la información del equipo de emergencia y de supervivencia:
+b
+A.- VERDADERO.
+B.- FALSO.
+80.- La distancia vertical entre un nivel, punto u objeto considerado como punto y una referencia específica, se denomina:
+b
+A.- Altitud de presión.
+B.- Altura.
+C.- Altitud de transición.
+D.- A y B son correctas.
+81.- Parte del área de movimiento destinada al aterrizaje o despegue de aeronaves, se denomina:
+b
+A.- Área de control.
+B.- Área de aterrizaje.
+C.- Área de maniobras.
+D.- Área de movimiento.
+82.- Área de control o parte de ella dispuesta en forma de corredor, se denomina:
+c
+A.- AFIS.
+B.- Altitud.
+C.- Aerovía.
+D.- Área de Control.
+83.- Calle de rodaje. Se define como una vía definida en un aeródromo terrestre, establecida para el rodaje de aeronaves y destinada a proporcionar enlace entre una y otra parte del aeródromo, incluyendo:
+d
+A.- Calle de acceso al puesto de estacionamiento de aeronave.
+B.- Calle de rodaje en la plataforma.
+C.- Calle de salida rápida.
+D.- Todas las anteriores son verdaderas.
+84.- Condiciones meteorológicas expresadas en términos de visibilidad, y distancia desde las nubes y techos de nubes, inferiores a las mínimas especificadas para las condiciones meteorológicas de vuelo visual, se denomina:
+a
+A.- Condiciones meteorológicas de vuelo por instrumentos.
+B.- Condiciones meteorológicas de vuelo visual.
+C.- A y B son correctas.
+D.- A y B son falsas.
+85.- Espacio aéreo de dimensiones definidas dentro del cual se facilita el servicio de control de tránsito aéreo de conformidad con la clasificación del espacio aéreo.
+c
+A.- Espacio aéreo con servicio de asesoramiento.
+B.- Área de control.
+C.- Espacio aéreo controlado.
+D.- Centro de control de área.
+86.- Símbolo utilizado para designar las condiciones meteorológicas de vuelo por instrumentos:
+d
+A.- VMC.
+B.- IFC.
+C.- IFR.
+D.- IMC.
+87.- Término genérico referente a la posición vertical de una aeronave en vuelo, que significa indistintamente altura, altitud o nivel de vuelo, corresponde a:
+d
+A.- Crucero.
+B.- Vuelo.
+C.- Punto.
+D.- Nivel.
+88.- Cuando un baroaltimetro del tipo de presión calibrado de acuerdo con la atmósfera tipo, se ajuste a un reglaje QFE, indicara:
+a
+A.- Altura.
+B.- Altitud.
+C.- Nivel de Vuelo.
+D.- Ninguna de las anteriores.
+89.- La dependencia establecida para facilitar servicio de control de tránsito aéreo a los vuelos controlados que lleguen a uno o más aeródromos o salgan de ellos, se denomina:
+c
+A.- Oficina de Notificación de los servicios de tránsito aéreo.
+B.- Dependencia de control de tránsito aéreo.
+C.- Dependencia de Control de Aproximación.
+D.- Dependencia de servicio de transito.
+90.- Se denomina "Plan de Vuelo" a la información especificada que, respecto a un vuelo proyectado o a parte de un vuelo de una aeronave, se somete a las dependencias de los servicios de tránsito aéreo.
+a
+A.- VERDADERO.
+B.- FALSO.
+91.- El Plan de vuelo que comprende las modificaciones, si las hay, que resultan de incorporar autorizaciones posteriores, se denomina:
+c
+A.- Plan de Vuelo.
+B.- Plan de vuelo presentado.
+C.- Plan de vuelo actualizado.
+D.- Plan de vuelo repetitivo.
+92.- Los planes de vuelo relativos a cada uno de los vuelos regulares que se realizan frecuentemente con idénticas características básicas, presentados, por los explotadores para que las dependencias de los servicios de tránsito aéreo (ATS) los conserven y utilicen repetidamente, se denomina:
+d
+A.- Plan de Vuelo.
+B.- Plan de vuelo presentado.
+C.- Plan de vuelo Actualizado.
+D.- Plan de Vuelo repetitivo.
+93.- El punto en el cual una aeronave que navega en un tramo de una ruta ATS definida por referencia a los radiofaros omnidireccionales VHF, se espera que transfiera su referencia de navegación primaria, de la instalación por detrás de la aeronave a la instalación inmediata por delante de la aeronave, se denomina:
+d
+A.- Punto de notificación.
+B.- Punto de notificación facultativo.
+C.- Punto de notificación obligatorio.
+D.- Punto de cambio.
+94.- Ruta "ATS", es una Ruta especificada que se ha designado para canalizar la corriente del tránsito según sea necesario para proporcionar servicios de tránsito aéreo. La expresión “Ruta ATS” se aplica, según el caso, a aerovías, rutas con o sin control, rutas de llegada o salida, etc.
+a
+A.- VERDADERO.
+B.- FALSO.
+95.- La expresión Ruta ATS, se aplica según el caso a:
+d
+A.- Aerovías.
+B.- Rutas con o sin control.
+C.- Rutas de llegada o salida.
+D.- Todas las anteriores son verdaderas.
+96.- El servicio de control de tránsito aéreo para la llegada y salida de vuelos controlados, se denomina:
+a
+A.- Servicio de control de aproximación.
+B.- Servicio de control de aeródromo.
+C.- Servicio de control de área.
+D.- Servicio de información de vuelo.
+97.- El servicio cuya finalidad es aconsejar y facilitar información útil para la realización segura y eficaz de los vuelos, se denomina:
+d
+A.- Servicio de Control de Aproximación.
+B.- Servicio de Control de aeródromo.
+C.- Servicio de información de vuelo de aeródromo.
+D.- Servicio de información de Vuelo.
+98.- La expresión genérica que se aplica, según el caso, a los servicios de información de vuelo, alerta, asesoramiento de tránsito aéreo, control de tránsito aéreo, servicios de control de área, control de aproximación o control de aeródromos, se denomina:
+a
+A.- Servicio de Tránsito Aéreo.
+B.- Servicio de Información de Vuelo.
+C.- Servicio de Control de Vuelo.
+D.- Servicio de Control de Área.
+99.- Se denomina "Tránsito aéreo" a todas las aeronaves que se hallan en vuelo, y las que circulan por el área de maniobras de un aeródromo.
+a
+A.- VERDADERO.
+B.- FALSO.
+100.- Se denomina tránsito de aeródromo a todo el tránsito que tiene lugar en el área de maniobras de un aeródromo, y todas las aeronaves que vuelen en las inmediaciones del mismo.
+a
+A.- VERDADERO.
+B.- FALSO.
+101.- Un piloto con experiencia que proyecta efectuar un vuelo SantiagoPuerto Montt, no necesita familiarizarse con toda la información disponible apropiada al vuelo, por cuanto gran parte de esa información siempre es conocida.
+b
+A.- VERDADERO.
+B.- FALSO.
+102.- Cederán el paso a las aeronaves que estén aterrizando o en las fases finales de una aproximación para aterrizar.
+c
+A.- Las aeronaves en vuelo.
+B.- Las que estén operando en tierra o agua.
+C.- A y B son correctas.
+D.- A y B son falsas.
+103.- El piloto al mando puede, ya sea en vuelo u operando en el área de movimiento de un aeródromo, apagar o reducir la intensidad de cualquiera luz de destello de a bordo, cuando:
+c
+A.- Dichas luces pudieran afectar adversamente el desempeño satisfactorio de sus funciones.
+B.- Expongan a un observador externo a un deslumbramiento perjudicial.
+C.- A y B son correctas.
+D.- A y B son falsas.
+104.- Que precauciones u observaciones (entre otras) deberán tener las aeronaves que operen en un aeródromo o en sus cercanías, tanto si se hallan o no en una zona de tránsito de aeródromo.
+d
+A.- Observar el transito del aeródromo, a fin de evitar colisiones.
+B.- De ajustarse al circuito de transito formado por otras aeronaves en vuelo, o evitarlas.
+C.- Harán todos los virajes hacia la izquierda al aproximarse para aterrizar y después del despegue, a menos que se les ordene lo contrario.
+D.- Todas anteriores son verdaderas.
+105.- Toda aeronave que sea alcanzada por otra tendrá el derecho de paso, y la que alcance cambiará su rumbo para mantener suficiente distancia.
+a
+A.- VERDADERO.
+B.- FALSO.
+106.- Cuando dos aeronaves se aproximen de frente o casi de frente, y haya peligro de colisión, ambas aeronaves deben alterar su ......... hacia la ...........:
+c
+A.- Distancia - Izquierda.
+B.- Velocidad - Izquierda.
+C.- Rumbo - Derecha.
+D.- Rumbo - Izquierda.
+107.- Un vuelo controlado deberá notificar a las dependencias correspondientes de los servicios de tránsito aéreo, tan pronto como sea posible, la hora y nivel a que se pasa cada uno de los puntos de notificación obligatorio designados.
+a
+A.- VERDADERO.
+B.- FALSO.
+108.- Las medidas que ha de adoptar la aeronave interceptada, son:
+d
+A.- Seguirá inmediatamente las instrucciones dadas por la aeronave interceptora, interpretando y respondiendo a las señales visuales de acuerdo con las especificadas en el Apéndice D del DAN 91.
+B.- Lo notificará inmediatamente, si es posible, a la dependencia ATS apropiada.
+C.- Tratará inmediatamente de comunicarse por radio con la aeronave interceptora o con la dependencia de control de interceptación apropiada y si está equipada con respondedor SSR, seleccionará inmediatamente el modo A, Código 7700.
+D.- Todas las anteriores son verdaderas.
+109.- La Luz roja fija para las aeronaves en vuelo significa:
+c
+A.- Regrese para aterrizar.
+B.- Aeródromo peligroso, no aterrice.
+C.- Cada el paso a las otras aeronaves y siga el circuito.
+D.- Ninguna de las anteriores.
+110.- ZONA DE TOMA DE CONTACTO: se denomina a:
+a
+A.- Parte de la pista, situada después del umbral, destinada a que los aviones que aterrizan hagan el primer contacto con la pista.
+B.- Zona donde se debe establecer el primer contacto radiofónico en las inmediaciones de un aeródromo.
+C.- Zona donde se establece una comunicación aeronáutica.
+D.- Zona nula.
+111.- ¿Qué significado tiene una señal blanca y horizontal en forma de pesas, ubicada en un área de señales?:
+d
+A.- Autoriza solo el uso de pistas.
+B.- Son instrucciones para el rodaje.
+C.- Aviso que hay planeadores volando.
+D.- Indica que las aeronaves deben aterrizar, despegar y rodar únicamente en las pistas y en las calles de rodaje.
+112.- Un grupo de dos cifras, colocado verticalmente en la torre de control del aeródromo, o cerca de ella, indica a las aeronaves que están en el área de maniobras:
+c
+A.- La intensidad del viento.
+B.- La temperatura del momento.
+C.- La dirección de despegue expresada en decenas de grados.
+D.- Todas las anteriores son falsas.
+113.- Hoy en día en un ambiente de vuelo saturado, la primera responsabilidad en cuanto a evitar colisiones recae casi completamente en la torre de control.
+b
+A.- VERDADERO.
+B.- FALSO.
+114.- Para operar un avión dentro del ATZ de un Aeropuerto, debe mantener comunicación de radio a lo menos en un sentido.
+b
+A.- VERDADERO.
+B.- FALSO.
+115.- Servicio de Alerta, es el servicio suministrado para notificar a los organismos pertinentes respecto a aeronaves que necesitan ayuda de búsqueda y salvamento, y auxiliar a dichos organismos según convenga.
+a
+A.- VERDADERO.
+B.- FALSO.
+116.- La autorización para el rodaje, en un aeródromo controlado, debe obtenerlo del:
+b
+A.- ACC.
+B.- Control terrestre.
+C.- AFIS.
+D.- Oficina A.R.O.
+117.- Al aproximar a un aeródromo con Servicio de Control de Aeródromo, Ud. deberá establecer comunicación en ambos sentidos con la torre de control (TWR), antes de ingresar a:
+b
+A.- TMA.
+B.- ATZ.
+C.- FIR.
+D.- ASE.
+118.- Si a Ud. le han fallado las comunicaciones por radio mientras efectúa circuito de tránsito en un aeródromo controlado, el procedimiento a seguir para poder aterrizar, será:
+b
+A.- Aterrizar detrás de otro avión, tomando las precauciones correspondientes.
+B.- Esperar señales de luces desde la Torre de Control (TWR).
+C.- A y B son correctas.
+D.- Ninguna de las anteriores es correcta.
+119.- Cuando se presente un Plan de Vuelo a una oficina de notificación de los servicios de tránsito aéreo (ARO), este solo debe ser presentado por el Piloto al Mando antes de la salida.
+b
+A.- VERDADERO.
+B.- FALSO.
+120.- Durante el desempeño de las atribuciones aeronáuticas que confieren las licencias o habilitaciones, el titular de una licencia deberá llevar consigo el correspondiente documento para exhibirlo a las autoridades aeronáuticas, cuando le sea requerida.
+a
+A.- VERDADERO.
+B.- FALSO.
+121.- El período de validez de la licencia para un piloto privado que tiene más de 40 años, es:
+a
+A.- 12 meses.
+B.- 06 meses.
+C.- 24 meses.
+D.- Ninguna de las anteriores.
+122.- La edad mínima para poder optar a la licencia de Piloto Privado, es:
+c
+A.- 16 años.
+B.- 17 años.
+C.- 18 años.
+D.- 21 años.
+123.- Un alumno o aspirante a la licencia de piloto privado no debe poseer un certificado médico extendido por un medico de medicina general, autorizado por la DGAC, mientras reciba instrucción de vuelo.
+b
+A.- VERDADERO.
+B.- FALSO.
+124.- Todas aquellas comprobaciones que se efectúan a intervalos de tiempo regulares o después de un cierto número de horas de funcionamiento de una aeronave, se denomina:
+a
+A.- Inspecciones periódicas.
+B.- Trabajos Aéreos.
+C.- Mantenimiento.
+D.- Inspector Visual.
+125.- El piloto al mando observará las leyes, reglamentos y procedimientos pertinentes de los Estados en que opere la aeronave.
+a
+A.- VERDADERO.
+B.- FALSO.
+126.- ¿En qué caso el piloto al mando puede tomar medidas que infrinjan los reglamentos o los procedimientos locales?
+a
+A.- En caso de emergencia que ponga en peligro la seguridad de la aeronave o de las personas.
+B.- En ningún caso.
+C.- Solo en caso de incendio de la aeronave.
+D.- Solo en condiciones meteorológicas adversas.
+127.- En qué circunstancias está prohibido fumar en las aeronaves.
+d
+A.- Durante el movimiento de la aeronave en la superficie.
+B.- En cada despegue, cada aterrizaje.
+C.- Cuando lo considere necesario el piloto al mando.
+D.- Todas las anteriores son verdaderas.
+128.- Que equipos (Utensilios) y documentación entre otros deberán poseer las aeronaves en todos los vuelos:
+d
+A.- Al menos un botiquín de primeros auxilios, un extinguidor, cinturones de seguridad para cada asiento, fusibles eléctricos de repuesto.
+B.- El manual de vuelo del avión, cartas aeronáuticas actualizadas, las claves de señales de tierra-aire y aire-tierra con fines de búsqueda y salvamento.
+C.- Certificado matrícula de la aeronave y certificado aeronavegabilidad.
+D.- Todas las anteriores son verdaderas.
+129.- La forma de presentar información NOTAM vigente, preparada antes del vuelo, que sea de importancia para las operaciones, se denomina:
+a
+A.- Boletín de información previa al vuelo.
+B.- Boletín de información durante el vuelo.
+C.- Boletín de información posterior al vuelo.
+D.- Ninguna de las anteriores.
+130.- Cuando Ud. desea avisar que tiene dificultades que lo obligan a aterrizar, pero no necesita asistencia inmediata, deberá transmitir por radiotelefonía la palabra MAYDAY.
+b
+A.- VERDADERO.
+B.- FALSO.
+131.- Expiración del plan de vuelo. Los informes de llegada hechos por aeronaves, contendrán los siguientes elementos de información:
+d
+A.- Identificación de la aeronave; aeródromo de salida.
+B.- Aeródromo de destino (solamente si el aterrizaje no se efectuó en el aeródromo de destino).
+C.- Aeródromo de llegada; y hora de llegada.
+D.- Todas las anteriores.
+132.- Los aeródromos civiles se dividen en:
+a
+A.- Aeródromos públicos y privados.
+B.- Aeródromos militares y públicos.
+C.- Aeródromos públicos, privados y militares.
+D.- Ninguna de las anteriores.
+133.- En caso de emergencia, cualquier aeronave podrá aterrizar en aeródromos privados o en superficies que no sean aeródromos:
+a
+A.- VERDADERO.
+B.- FALSO.
+134.- Normalmente la frecuencia que utilizarán las aeronaves para transmitir su posición e intenciones, cuando operen en un aeródromo o sus inmediaciones y este no es controlado o con AFIS, es:
+d
+A.- 110, 1 MHZ.
+B.- 119, 1 MHZ.
+C.- 119, 2 MHZ.
+D.- 118, 2 MHZ.
+135.- Una aeronave que esté volando con Plan de Vuelo visual, en las cercanías de un aeródromo con servicio AFIS, deberá:
+b
+A.- Estar alerta a cualquier llamado.
+B.- Contactar a 10 MN del AFIS en la Frecuencia apropiada para notificar posición, altitud o nivel e intenciones.
+C.- Pasar inadvertido.
+D.- Ninguna de las anteriores.
+136.- Se consideran áreas restringidas (salvo expresa autorización del Servicio de Tránsito Aéreo) entre otras:
+d
+A.- Los aeródromos militares.
+B.- Buques de guerra, aeropuertos internacionales.
+C.- Unidades y recintos militares.
+D.- Todas las anteriores.
+137.- Aeronáutica no comercial es la que tiene por objeto actividades de vuelo sin fines de lucro, tales como la instrucción, recreación o deporte. La aviación no comercial no podrá realizar servicios de transporte o trabajos aéreos remunerados. Sin embargo, previa autorización de la Junta de Aeronáutica Civil, la aviación no comercial podrá efectuar servicios de transporte o trabajos aéreos pagados, siempre que éstos no persigan fines de lucro, cuando la aeronáutica comercial no esté en condiciones de prestar dichos servicios.
+a
+A.- VERDADERO.
+B.- FALSO.
+138.- Reglamentos Aeronáuticos (DAR): Son disposiciones que establecen normas de carácter general reglamentario orientadas a entregar seguridad y diversos servicios a la navegación aérea. Su numeración y su formato se derivan de los Anexos al Convenio de Aviación Civil Internacional (OACI).
+a
+A.- VERDADERO.
+B.- FALSO.
+139.- La abreviatura, "sobre el nivel del terreno" es:
+c
+A.- MSL.
+B.- ASL.
+C.- AGL.
+D.- ALL.
+140.- La mejor fuente de información para buscar una frecuencia del control de tierra de un determinado aeródromo controlado, es:
+c
+A.- El Manual de información del piloto.
+B.- Una carta aeronáutica.
+C.- La AIP-CHILE.
+D.- Una estación aeronáutica.
+141.- Ninguna aeronave será autorizada para el vuelo sin la previa expedición de un certificado de aeronavegabilidad por parte de la autoridad aeronáutica.
+a
+A.- VERDADERO.
+B.- FALSO.
+142.- En toda aeronave que vuele sobre territorio nacional se deben portar los siguientes documentos:
+d
+A.- Certificado de matrícula y de aeronavegabilidad.
+B.- Licencias y habilitaciones de la tripulación y bitácoras.
+C.- Documentos relativos a la aeronave, a los pasajeros, a la carga y a la correspondencia, que requieran los reglamentos.
+D.- Todas las anteriores son verdaderas.
+143.- Las infracciones a las disposiciones del código aeronáutico, a las leyes aeronáuticas y a los reglamentos, que no constituyan delito, serán sancionadas con:
+d
+A.- Amonestación escrita.
+B.- Multa de cinco o quinientos ingresos mínimos mensuales.
+C.- Suspensión de los permisos o licencias por un plazo de hasta tres años; y Cancelación definitiva de los permisos o licencias.
+D.- Todas las anteriores son verdaderas.
+144.- Para los efectos del código Aeronáutico, se entiende que una aeronave se encuentra en vuelo desde el momento en que:
+c
+A.- Pone en marcha el motor.
+B.- Enciende las luces de navegación.
+C.- Comienza a moverse con el objeto de despegar, hasta detenerse una vez finalizado el vuelo.
+D.- Cuando aplica potencia para despegar.
+145.- Aquella persona que, sin haber obtenido las licencias o habilitaciones competentes, desempeñare a bordo de una aeronave en vuelo actividades como tripulante de vuelo, será castigado con presidio o reclusión.
+a
+A.- VERDADERO.
+B.- FALSO.
+146.- Excepto los vuelos que se efectúen sobre 3000 Ft AGL, las aeronaves no volarán en formación excepto mediante arreglo previo entre los pilotos al mando de las aeronaves participantes.
+b
+A.- VERDADERO.
+B.- FALSO.
+147.- Espacio aéreo de dimensiones definidas, dentro del cual se facilitan los servicios de información de vuelo y de alerta.
+b
+A.- Centro de información de vuelo.
+B.- Región de información de vuelo.
+C.- Centro de control de vuelo.
+D.- Ninguna de las anteriores.
+148.- Se presentará un plan de vuelo a una oficina de notificación de los servicios de tránsito aéreo (ARO) (ya sea personalmente, por medio telefónico, correo electrónico o fax) antes de la salida, o se transmitirá durante el vuelo, a la dependencia de los servicios de tránsito aéreo o a la estación de radio de control aeroterrestre competente:
+a
+A.- VERDADERO.
+B.- FALSO.
+149.- Se exceptúan de la presentación de un Plan de Vuelo:
+a
+A.- Los vuelos VFR locales.
+B.- Los vuelos VFR entre aeródromos que se encuentren ubicados dentro de los límites laterales de una Zona de Control.
+C.- Todos los vuelos VFR.
+D.- A y B son correctas.
+150.- La validez de los Planes de Vuelo VFR, será de ................. respecto a sus horas estimadas de salida.
+b
+A.- Una (1) hora.
+B.- Dos (2) horas.
+C.- Tres (3) horas.
+D.- No tiene validez de horas.
+151.- El piloto al mando de la aeronave tiene autoridad decisiva en todo lo relacionado con ella, mientras esté al mando de la misma.
+a
+A.- VERDADERO.
+B.- FALSO.
+152.- De acuerdo a las mínimas VMC de visibilidad y distancia de las nubes, los vuelos VFR, se efectuarán a una distancia de las nubes de 1.500 m horizontalmente y 300 m (1 000 ft) verticalmente, excepto para vuelos fuera del espacio aéreo controlado bajo los 300 m (1 000 ft) sobre el terreno, donde deberá estar Libre de nubes y con la superficie a la vista:
+b
+A.- VERDADERO.
+B.- FALSO.
+153.- Se entenderá por abandonada una aeronave cuando concurran los siguientes requisitos:
+d
+A.- Que se encuentre sin actividades de vuelo, por más de un año, en un aeródromo público.
+B.- Que vencido el año, la autoridad aeronáutica notifique dicha circunstancia, por tres veces en el Diario Oficial, mediando a lo menos quince días entre cada aviso, indicando la matrícula de la aeronave, el nombre y domicilio del propietario y las hipotecas, privilegios, embargos u otros gravámenes que la afecten, según consten en el Registro Nacional de Aeronaves.
+C.- Que transcurridos treinta días desde el último aviso, no se presente el propietario u otros interesados a resolver sobre el destino de la aeronave y a responder por los gastos o perjuicios que tal situación hubiere ocasionado. Vencido el plazo indicado en la letra c), la aeronave se perderá irrevocablemente para el dueño y para los demás titulares de derechos en ella, e ingresará al dominio fiscal como recurso de la Dirección General de Aeronáutica Civil, la que dispondrá de ella.
+D.- Todas las anteriores son verdaderas.
+154.- Cuál de las siguientes publicaciones, tiene carácter de oficial para buscar información aeronáutica en Chile:
+c
+A.- Revistas aeronáuticas.
+B.- Informativos Fedach.
+C.- AIP Volumen I y II.
+D.- Todas las anteriores son verdaderas.
+155.- "Es ZONA DE PROTECCION" de la infraestructura aeronáutica, el espacio aéreo sobre:
+d
+A.- Los aeródromos públicos o militares.
+B.- Las inmediaciones terrestres o acuáticas de dichos aeródromos.
+C.- Las instalaciones de ayuda y protección a la navegación aérea.
+D.- Todas las anteriores.
+156.- Cuando se opera en un aeródromo controlado, sobre el mismo, o en sus cercanías. Las aeronaves no deben rodar hacia una pista, ni despegar ni aterrizar, a menos que hayan recibido autorización de la torre de control.
+a
+A.- VERDADERO.
+B.- FALSO.
+157.- El código aeronáutico es una información referencial, que no debe contraponerse al:
+d
+A.- DAR 01.
+B.- DAR 91.
+C.- DAP 11.
+D.- Ninguno de los anteriores.
+158.- Cuando UD. vuela una aeronave sobre agua a una distancia de la costa superior a la de planeo, deberá:
+b
+A.- Llevar un bote para la tripulación.
+B.- Llevar un chaleco salvavidas o dispositivo de flotación individual equivalente para cada persona que vaya a bordo.
+C.- Llevar mascaras de oxígeno.
+D.- Todas las anteriores son verdaderas.
+159.- ¿Cómo un piloto puede saber la hora UTC de un día determinado del año en Chile?:
+b
+A.- Buscando información en revistas relacionadas.
+B.- Buscando información en la AIP-CHILE.
+C.- Preguntándole siempre a su instructor cada vez que quiera realizar un vuelo.
+D.- Da lo mismo la hora UTC.
+160.- Cuando una aeronave esté en rodaje en el área de maniobras se detendrá y se mantendrá a la espera en todos los puntos de espera de acceso a la pista, a menos que la torre de control de aeródromo le autorice de otro modo.
+a
+A.- VERDADERO.
+B.- FALSO.
+161.- Las áreas o zonas militares, están consideradas como Zonas Especiales:
+b
+A.- Restringidas.
+B.- Prohibidas.
+C.- Peligrosas.
+D.- Ninguna de las anteriores.
+162.- La dependencia establecida para facilitar servicio de información de vuelo y servicio de alerta, se denomina:
+b
+A.- Área de control.
+B.- Servicio de información de vuelo de Aeródromo (AFIS).
+C.- Centro de control de área.
+D.- Área de control terminal.
+163.- El piloto al mando de la aeronave, manipule o no los mandos, es responsable de que la operación de ésta se realice de acuerdo con lo dispuesto en DAN 91:
+a
+A.- VERDADERO.
+B.- FALSO.
+164.- De acuerdo a la DAN 91 "Reglas del Aire”, a menos que la autoridad ATS competente lo autorice, no se realizarán vuelos VFR, por encima del nivel de vuelo:
+d
+A.- 200.
+B.- 100.
+C.- 250.
+D.- 195.
+165.- Que se debe hacer en caso de que un vuelo controlado se desvíe inadvertidamente de su plan de vuelo actualizado:
+d
+A.- Si la aeronave se desvía de la derrota, tomará medidas inmediatamente para rectificar su rumbo con objeto de volver a la derrota lo antes posible.
+B.- Si el promedio de velocidad verdadera aerodinámica al nivel de crucero entre puntos de notificación varía, o se espera que varíe, en un 5% en más o en menos respecto a la consignada en el plan de vuelo, se notificará a la dependencia correspondiente de los servicios de tránsito aéreo.
+C.- Si la hora prevista de llegada al próximo punto de notificación aplicable, al límite de región de información de vuelo o al aeródromo de destino, el que esté antes, resulta errónea en más de 2 minutos con respecto a la notificada a los servicios de tránsito aéreo, o con relación a otro período de tiempo que haya prescrito la autoridad ATS competente o que se base en acuerdos regionales de navegación aérea, la nueva hora prevista, revisada, se notificará lo antes posible a la dependencia correspondiente de los servicios de tránsito aéreo.
+D.- Todas las anteriores son verdaderas.
+166.- Las disposiciones del DAR 91 "“Reglas de Vuelo y Operación General", se aplicarán:
+d
+A.- A todas las aeronaves civiles nacionales dondequiera que estén, en cuanto no se opongan al Reglamento vigente en el Estado que tenga jurisdicción sobre el territorio o espacio aéreo en el cual operen.
+B.- A las aeronaves militares nacionales en cuanto realicen operaciones aéreas que no sean operaciones aéreas militares y a las aeronaves de Carabineros y de Policía de Investigaciones en cuanto realicen operaciones que no sean operaciones aéreas policiales.
+C.- A todas las aeronaves que se encuentren dentro de los límites de las Regiones de Información de Vuelo en que se haya dividido el espacio aéreo chileno.
+D.- Todas las anteriores son verdaderas.
+167.- En qué oportunidad, el piloto al mando (si así lo desea) presentará un plan de vuelo hasta y desde el punto de destino:
+d
+A.- Cuando sea obligado a ello, porque alguien se lo dispuso.
+B.- Cuando la Autoridad Aeronáutica se lo ordene.
+C.- Por comodidad del piloto.
+D.- Cuando debido a aspectos de carácter geográfico impidan las comunicaciones y no sea posible presentar o cancelar un Plan de Vuelo para dar cumplimiento a lo dispuesto en el DAN 91.
+168.- Nadie podrá pilotar una aeronave bajo la influencia de un narcótico o estupefaciente.
+a
+A.- VERDADERO.
+B.- FALSO.
+169.- En sentido aeronáutico se entiende por visibilidad, a:
+c
+A.- La distancia máxima a la que puede verse y reconocerse un objeto de color negro de dimensiones convenientes, situado cerca del suelo, al ser observado ante un fondo brillante.
+B.- La distancia máxima a la que puedan verse e identificarse las luces de aproximadamente mil candelas ante un fondo no iluminado.
+C.- A y B son correctas.
+D.- A y B son falsas.
+170.- Las normas contenidas en la DAR 91, "REGLAS DE VUELO Y OPERACIÓN GENERAL", se aplicarán a todas las aeronaves civiles nacionales dondequiera que estén, en cuanto no se opongan al Reglamento vigente del Estado que tenga jurisdicción sobre el territorio o espacio aéreo en el cual operen.
+a
+A.- VERDADERO.
+B.- FALSO
