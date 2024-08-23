@@ -1,0 +1,174 @@
+1.- La performance del avión es la capacidad del avión, si es operado dentro de sus limitaciones, para efectuar maniobras que sirvan un propósito especifico.
+a
+A.- VERDADERO.
+B.- FALSO.
+2.- El "C.G." es un punto en el cual el avión estará en equilibrio si se le suspendiera de dicho punto.
+a
+A.- VERDADERO.
+B.- FALSO.
+3.- La preocupación primordial en el balance del avión es la ubicación del "C.G." hacia adelante o hacia atrás a lo largo del eje longitudinal del avión.
+a
+A.- VERDADERO.
+B.- FALSO.
+4.- El "C.G." es un punto "fijo" en el avión.
+b
+A.- VERDADERO.
+B.- FALSO.
+5.- Al desplazar el "C.G" de un avión demasiado hacia adelante sobre el eje longitudinal, resultara en una condición de:
+c
+A.- Cola más pesada.
+B.- Alerones más pesados.
+C.- Nariz más pesada.
+D.- Timón de dirección más liviano.
+6.- Las condiciones de balance adverso además de afectar las características de vuelo del avión, hay otras características esenciales que afecta cuales son:
+d
+A.- Peso y control.
+B.- Peso y estabilidad.
+C.- Estabilidad y seguridad.
+D.- Estabilidad y control.
+7.- La carga de una condición de cola pesada, ¿qué características produce?
+c
+A.- Efecto grave sobre la estabilidad longitudinal y puede reducir la capacidad del avión para recuperarse de stall y spins.
+B.- Produce fuerzas muy livianas en los controles, esto hace que el piloto con facilidad y sin advertirlo, sobreesfuerce el avión.
+C.- A y B son correctas.
+D.- Causa problema para controlar y levantar la nariz, especialmente durante el despegue y aterrizaje.
+8.- El limite delantero del "C.G." es establecido en una ubicación que es determinada por :
+d
+A.- Un vuelo de crucero estable y seguro.
+B.- Un ascenso o descenso sin límites.
+C.- A y B son correctas.
+D.- Las características de aterrizaje del avión.
+9.- También se especifica el limite delantero del "C.G." restringido para asegurarse tener disponible suficiente deflexión de los elevadores a la velocidad mínima.
+a
+A.- VERDADERO.
+B.- FALSO.
+10.- El control del peso y balance es un asunto de mucha importancia, por lo tanto siempre debe asegurarse que esté disponible en el avión la información actualizada para el uso del piloto, y se debe controlar que se efectúen las anotaciones correspondientes en los registros y bitácoras del avión cuando se efectúen reparaciones o modificaciones.
+a
+A.- VERDADERO.
+B.- FALSO.
+11.- La distancia horizontal en pulgadas desde la línea de referencia (Datum) hasta el centro de gravedad de un ítem, se denomina:
+c
+A.- Estación.
+B.- Centro de Gravedad.
+C.- Brazo.
+D.- Momento.
+12.- La distancia entre los limites delantero y trasero del C.G. indicados en las especificaciones pertinentes del avión, se denomina:
+a
+A.- Rango del centro de gravedad.
+B.- línea de referencia.
+C.- Limites del centro de gravedad.
+D.- Ninguna de las anteriores.
+13.- El plano vertical imaginario o línea desde la cual se toman las mediciones del brazo, se denomina:
+b
+A.- Momento.
+B.- línea de referencia.
+C.- Estación.
+D.- Cuerda aerodinámica.
+14.- Determine la velocidad de stall calibrada para un avión con una inclinación alar de 45 grados y 40 grados de flaps. Consulte tabla "velocidad de perdida V/S centro gravedad desplazado hacia adelante.
+d
+A.- 43 KIAS
+B.- 52 KCAS
+C.- 49 KIAS
+D.- 56 KCAS
+15.- Determine la velocidad de stall calibrada para un avión con una inclinación alar de 60 grados y 40 grados de flaps consulta tabla: velocidad de stall, centro gravedad desplazado hacia atrás .
+b
+A.- 62 KIAS.
+B.- 62 KCAS.
+C.- 58 KIAS.
+D.- 66 KCAS.
+16.- Determine la razón de ascenso en pies x minutos Consulte tabla : razón de ascenso. Datos: Temperatura exterior: 8 grados; Altitud de presión : 10.000 pies; peso: 2300 libras.
+b
+A.- 272 pies x minuto.
+B.- 263 pies x minuto.
+C.- 250 pies x minuto.
+D.- 243 pies x minuto.
+17.- Determine la razón de ascenso en pies x minutos Consulte tabla : razón de ascenso. Datos: Temperatura exterior: 12 grados C.; Altitud de presión : 2.000 pies; peso: 2300 libras.
+d
+A.- 692 pies x minuto.
+B.- 693 pies x minuto.
+C.- 683 pies x minuto.
+D.- 672 pies x minuto.
+18.- Determine alcance (con reserva) y velocidad aérea verdadera. Consulte tabla : Perfil de alcance para 40 gallones; datos: Altitud de presión de crucero 7.000 pies; Potencia de crucero 65%.
+c
+A.- 464 millas náuticas - 110 nudos.
+B.- 464 millas náuticas - 121 nudos.
+C.- 525 millas náuticas - 114 nudos.
+D.- 530 millas náuticas - 115 nudos.
+19.- Determine alcance (con reserva) y velocidad aérea verdadera. Consulte tabla : Perfil de alcance para 40 gallones; datos: Altitud de presión de crucero 8.000 pies; Potencia de crucero 65%.
+d
+A.- 510 millas náuticas - 118 nudos.
+B.- 520 millas náuticas - 120 nudos.
+C.- 520 millas náuticas - 118 nudos.
+D.- 520 millas náuticas - 115 nudos.
+20.- Determine la distancia de despegue total aproximada, requerida para franquear un obstáculo de 50 pies. Consulte tabla: distancia de despegue. Datos. Peso de avión 2300 libras; Altitud de presión 5000 pies; Temperatura: 30 grados C.; Viento de frente: 9 nudos; Pista: Pavimentada, nivelada, seca.
+b
+A.- 2236 pies.
+B.- 2595 pies.
+C.- 2336 pies.
+D.- 2895 pies.
+21.- Determine la distancia de despegue total aproximada, requerida para franquear un obstáculo de 50 pies. Consulte tabla. distancia de despegue. Datos: Peso del avión: 2300 libras; Altitud de presión: 6000 pies; Temperatura: 20 grados C.; Viento de frente: 6 nudos; Pista: Pavimento, nivelada, seca.
+d
+A.- 3284 pies.
+B.- 3484 pies.
+C.- 3844 pies.
+D.- 2680 pies.
+22.- Determine la distancia de despegue total aproximada, requerida para franquear un obstáculo de 50 pies. Consulte tabla : distancia de despegue. Datos: Peso del avión: 2300 libras; Altitud de presión: 5000 pies; Temperatura: 10 grados C.; Viento de frente: 18 nudos: Pista: Pavimentada, nivelada , seca.
+d
+A.- 1692 pies.
+B.- 1892 pies.
+C.- 2244 pies.
+D.- 1792 pies.
+23.- Determine la autonomía de su avión Consulte gráficos : perfil de autonomía Datos: Altitud de crucero: 6000 pies; Potencia: 55%; Combustible usable : 40 galones.
+a
+A.- 5 horas 24 minutos.
+B.- 3 horas y 20 minutos.
+C.- 7,0 horas.
+D.- 3 horas y 45 minutos.
+24.- Determine la componente de viento cruzado aproximado Consulte grafico : componente de viento. Datos: Velocidad de viento: 20 nudos; Angulo del viento: 60 grados.
+d
+A.- 10 nudos.
+B.- 12 nudos.
+C.- 15 nudos.
+D.- 17 nudos.
+25.- Determine la componente de viento cruzado aproximado Consulte grafico : componente de viento. Datos: Velocidad de viento: 40 nudos; Angulo del viento: 80 grados.
+c
+A.- 06 nudos.
+B.- 35 nudos.
+C.- 39 nudos.
+D.- 42 nudos.
+26.- Determine la distancia de aterrizaje sobre un obstáculo de 50 pies. Consulte tabla : Performance de aterrizaje. Datos: Altitud de presión aeródromo: 3000 pies; Temperatura aeródromo: 20 grados C; Viento de Cola: 5 nudos.
+a
+A.- 1712 pies.
+B.- 1370 pies.
+C.- 1644 pies.
+D.- 1781 pies.
+27.- Determine la distancia de aterrizaje sobre un obstáculo de 50 pies. Consulta tabla : Performance de aterrizaje. Datos: Altitud de presión aeródromo : 4000 pies; Temperatura aeródromo: 30 grados C.; Viento frente: 18 nudos.
+b
+A.- 1011 pies.
+B.- 1156 pies.
+C.- 1300 pies.
+D.- 1445 pies.
+28.- Determine la autonomía de su avión Consulta grafico : perfil de autonomía Datos : Altitud de crucero: 6000 pies; Potencia: 65%; Combustible usable: 50 Galones.
+b
+A.- 6 horas y 32 minutos.
+B.- 6 horas y 03 minutos.
+C.- 5 horas y 55 minutos.
+D.- 4 horas.
+29.- Determine la razón de ascenso en pies x minutos Consulte tabla: razón de ascenso. Datos: Temperatura exterior: 14 grados C.; Altitud de presión: 6000 pies; Peso: 2300 libras.
+a
+A.- 456 pies x minuto.
+B.- 108 pies x minuto.
+C.- 412 pies x minuto.
+D.- 405 pies x minuto.
+30.- El sobrepeso reduce las performance de vuelo del avión en casi todos sus aspectos. Las deficiencias más importantes de un avión sobrecargado son:
+d
+A.- Mayor velocidad y carrera de despegue-mayor velocidad y carrera de aterrizaje-mayor velocidad de stall.
+B.- Razón y ángulo de ascenso reducidos-menor altitud máxima y alcance.
+C.- Velocidad de crucero reducida-maniobrabilidad reducida-peso excesivo en la rueda de nariz.
+D.- Todas las anteriores son correctas.
+31.- El peso vacío de un avión incluye:
+d
+A.- Estructuras-motores y todos los ítem de equipo operacional que tengan ubicaciones fijas y que estén instalados permanentemente en el avión.
+B.- Equipo opcional y especial-lastre fijo fluido hidráulico.
+C.- Combustible no utilizable (residuo y aceite no drenable (residuo).
+D.- Todas las anteriores son correctas
