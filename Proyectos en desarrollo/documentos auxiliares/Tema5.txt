@@ -1,0 +1,482 @@
+1.- Si es mantenida una velocidad terrestre de 120 nudos, ¿cuánto tiempo será necesario para volar una distancia de 480 NM?
+c
+A.- 5 horas.
+B.- 4 horas y 20 minutos.
+C.- 4 horas.
+D.- 5 horas y 10 minutos
+2.- Si es mantenida una velocidad terrestre de 139 nudos, ¿cuánto tiempo será necesario para volar una distancia de 236 millas náuticas?
+d
+A.- 1 hora y 38 minutos.
+B.- 1 hora y 18 minutos.
+C.- 1 hora y 25 minutos.
+D.- 1 hora y 42 minutos.
+3.- Si es mantenida una velocidad terrestre de 142 nudos. ¿Cuánto tiempo será necesario para volar una distancia de 320NM?
+d
+A.- 2 horas y 36 minutos.
+B.- 1 hora y 26 minutos.
+C.- 2 horas y 26 minutos.
+D.- 2 horas y 15 minutos.
+4.- Si un avión vuela 25 NM en 15 minutos, ¿cuál es su velocidad terrestre?
+b
+A.- 100 NM.
+B.- 100 KTS.
+C.- 100 MPH
+D.- Ninguna de las anteriores.
+5.- Si un avión vuela 13 NM en 08 minutos, ¿cuál es su velocidad terrestre?
+d
+A.- 98 NM.
+B.- 114 KTS.
+C.- 100 MPH.
+D.- Ninguna es correcta.
+6.- Si un avión lleva 40 galones de combustible utilizable y la razón de consumo es de 6 galones por hora, ¿cuál es el tiempo de vuelo total disponible?
+a
+A.- 06 horas y 40 minutos.
+B.- 05 horas y 40 minutos.
+C.- 06 horas y 45 minutos.
+D.- 05 horas y 45 minutos.
+7.- Si un avión lleva 36 galones de combustible utilizable y la razón de consumo es de 4, 5 galones por hora, ¿cuál es el tiempo de vuelo total disponible?
+c
+A.- 06 horas.
+B.- 07 horas.
+C.- 08 horas.
+D.- 09 horas.
+8.- Si un avión lleva 52 galones de combustible utilizable y la razón de consumo es de 8 galones por hora, ¿cuál es el tiempo de vuelo total disponible?
+b
+A.- 05 horas y 20 minutos.
+B.- 06 horas y 30 minutos.
+C.- 06 horas y 20 minutos.
+D.- 25 horas y 30 minutos.
+9.- ¿Cuánto combustible será utilizado en un vuelo de 4 horas, si la razón de consumo es de 8,5 galones por hora?
+b
+A.- 25 galones.
+B.- 34 galones.
+C.- 22 galones.
+D.- 21 galones.
+10.- Su avión ha consumido 48 LBS de combustible en 34 minutos, ¿cuál será el consumo horario?
+b
+A.- 85 galones por hora.
+B.- 85 LBS por hora.
+C.- 85 LTS por hora.
+D.- 850 LBS por hora.
+11.- Su avión tiene una capacidad total de combustible de 400 Lbs., en 25 minutos de vuelo ha consumido 35 Lbs. de combustible, ¿cuál es el tiempo de vuelo remanente, dejando 60 Lbs. de combustible de reserva?
+d
+A.- 05 horas y 30 minutos.
+B.- 04 horas y 36 minutos.
+C.- 04 horas.
+D.- 03 horas y 38 minutos.
+12.- UD. ha volado 90 NM en un tiempo de 45 minutos, con un consumo de 63 Lbs. de combustible, determine cuantas millas podrá volar, si su avión tiene de 336 Lbs de combustible?
+a
+A.- 480 NM.
+B.- 490 NM.
+C.- 380 NM.
+D.- 390 MN.
+13.- Encuentre el ángulo de corrección (WCA), rumbo verdadero (TH) y la velocidad terrestre (GS), dados los siguientes datos: Velocidad aérea verdadera (TAS) 140 KTS; Curso verdadero (TC) 040 grados; Dirección y velocidad viento 315 grados / 10 kts.
+d
+A.- 8 R 048 grados - 144 KTS.
+B.- 8 L 032 grados - 132 KTS.
+C.- 4 R 044 grados - 142 KTS.
+D.- 4 L 036 grados - 139 KTS.
+14.- Encuentre el ángulo de corrección (WCA), rumbo verdadero (TH) y la velocidad terrestre (GS), dados los siguientes datos: Velocidad aérea verdadera (TAS) 130 KTS; Curso verdadero (TC)110 grados; Dirección y velocidad viento 050 grados 15 Kts.:
+a
+A.- 6 L 104 grados - 123 KTS.
+B.- 5 R 115 grados - 135 KTS.
+C.- 5 L 115 grados - 135 KTS.
+D.- 6 R 120 grados - 121 KTS.
+15.- La escala de las cartas aeronáuticas mundiales (WAC) es de :
+c
+A.- 1: 500.000
+B.- 1: 250.000
+C.- 1: 1.000.000
+D.- 1: 100.000
+16.- La elevación del terreno, el relieve, se muestra en las cartas aeronáuticas mundiales mediante líneas de contorno de color .......... y están dibujadas a intervalos de ...................
+c
+A.- Azul 1000 pies.
+B.- Verde 500 pies.
+C.- Café 1000 pies.
+D.- Azul 500 pies.
+17.- Los paralelos de latitud corren desde el polo norte hasta el polo sur y cortan en ángulo recto el ecuador.
+b
+A.- VERDADERO.
+B.- FALSO.
+18.- Indique ¿cuál de las siguientes aseveraciones es la correcta?
+d
+A.- Curso es el recorrido deseado de un avión sobre la superficie de la tierra.
+B.- Trayectoria es el recorrido real sobre el terreno efectuado en vuelo.
+C.- Rumbo es la dirección hacia la cual se orienta la nariz del avión durante el vuelo.
+D.- A , B y C son correctas.
+19.- La razón de avance del avión a través del aire es:
+a
+A.- Velocidad aérea verdadera.
+B.- Velocidad terrestre.
+C.- Trayectoria.
+D.- Velocidad aérea indicada.
+20.- Ángulo de corrección del viento es la corrección aplicada al curso para establecer un rumbo de manera que:
+a
+A.- La trayectoria coincida con el curso.
+B.- La trayectoria sea corregida por el curso.
+C.- A y B son correctas.
+D.- A y B son falsas.
+21.- Un avión en vuelo está afectado por una masa de aire en movimiento, cuando el viento es del Sur Weste, significa que se desplaza a:
+d
+A.- Sur Weste.
+B.- Sur Este.
+C.- Nor Weste.
+D.- Nor Este.
+22.- La línea que une los puntos en los cuales no hay variación entre el norte verdadero y el norte magnético se llama línea agónica:
+a
+A.- VERDADERO.
+B.- FALSO.
+23.- Las líneas que unen puntos de igual variación magnética son líneas segmentadas de color rojo o azul y se denominan:
+c
+A.- Isobaras.
+B.- Isotales.
+C.- Isogonicas.
+D.- Isoterma.
+24.- Cuando el rumbo verdadero es corregido por la variación magnética, se conoce con el nombre de:
+c
+A.- Rumbo verdadero.
+B.- Rumbo compás.
+C.- Rumbo magnético.
+D.- Rumbo geográfico.
+25.- Supongamos que estamos en Puerto Montt, donde la línea de variación magnética indica 14 E, para volar al rumbo norte verdadero deberemos volar compás al rumbo.
+d
+A.- 14
+B.- 360.
+C.- 355
+D.- 346
+26.- Variación magnética es el ángulo formado entre el norte magnético y el norte verdadero.
+a
+A.- VERDADERO.
+B.- FALSO.
+27.- Las influencias magnéticas producidas dentro del avión debido a la operación de sus circuitos eléctricos , radios, luces, motor o partes magnetizadas se conoce como:
+a
+A.- Desviación o desvío del compás.
+B.- Error magnético del compás.
+C.- Precesión del giro compás.
+D.- Variación del compás magnético.
+28.- Los círculos paralelos al Ecuador son:
+b
+A.- Paralelos de longitud.
+B.- Paralelos de latitud.
+C.- Meridianos de longitud.
+D.- Meridianos de latitud.
+29.- El ángulo formado entre el rumbo y la trayectoria se denomina:
+a
+A.- Angulo de deriva.
+B.- Angulo de corrección al viento.
+C.- Angulo de trayectoria.
+D.- Angulo de corrección de curso.
+30.- Dados los siguientes datos: Distancia 320 NM Tiempo 01:40 Determine la velocidad.
+c
+A.- 198 KT.
+B.- 200 KT.
+C.- 192 KT.
+D.- 100 KT.
+31.- Dados los siguientes datos: Distancia 520 NM Tiempo 02:10 Determine la velocidad.
+c
+A.- 245 KT.
+B.- 250 KT.
+C.- 240 KT.
+D.- 235 KT.
+32.- Dados los siguientes datos: Distancia 450 NM Tiempo 02:50. Determine la velocidad.
+a
+A.- 158 KT.
+B.- 168 KT.
+C.- 178 KT.
+D.- 188 KT.
+33.- Dados los siguientes datos: Dirección y velocidad del viento: 090 grados / 50 nudos; Curso verdadero 300 grados; Velocidad aérea Verdadera (TAS) 150 nudos; Variación 0 grado. Determinar velocidad terrestre (GS) y rumbo.
+d
+A.- 200 KT - 300 grados.
+B.- 190 KT - 290 grados.
+C.- 200 KT - 310 grados.
+D.- 190 KT - 310 grados.
+34.- Dados los siguientes datos. Dirección y velocidad del viento: 260/40 nudos; Curso verdadero 290 grados; Velocidad aérea Verdadera (TAS) 235 KT; Variación 0 grado; Determinar velocidad terrestre (GS) y rumbo.
+c
+A.- 200 KT - 280 grados.
+B.- 205 KT - 280 grados.
+C.- 200 KT - 285 grados.
+D.- 205 KT - 200 grados.
+35.- Dados los siguientes datos: Velocidad aérea verdadera 250 KT. Curso verdadero 145 grados; Dirección y velocidad del viento 210 grados/20 KT; Variación: 10 grados E; Determinar: Rumbo magnético y velocidad terrestre.
+a
+A.- 139 grados - 241 KT.
+B.- 145 grados - 245 KT.
+C.- 135 grados - 241 KT.
+D.- 241 grados - 139 KT.
+36.- Dados los siguientes datos: Velocidad aérea verdadera 138 KTS; Curso verdadero 105 grados; Dirección y velocidad del viento 330 grados/40 kts Variación 16 grados E.; Determinar: Rumbo magnético y velocidad terrestre.
+c
+A.- 093 grados - 163 KT.
+B.- 089 grados - 163 KT.
+C.- 077 grados - 163 KT.
+D.- Ninguna de las anteriores.
+37.- Dados los siguientes datos: Velocidad aérea verdadera 226 nudos; Curso verdadero 012 grados; Dirección y velocidad del viento 340 grados / 45 nudos; Variación 11° E. Determinar: Rumbo magnético y velocidad terrestre.
+d
+A.- 000 grados - 190 KT.
+B.- 006 grados - 187 KT.
+C.- 001 grados - 187 KT
+D.- 355 grados - 187 KT.
+38.- Dado los siguientes datos: Velocidad terrestre 307 KT.; Distancia 40 NM.; Determinar Tiempo.
+c
+A.- 07 minutos y 30 segundos.
+B.- 07 minutos y 10 segundos.
+C.- 07 minutos y 49 segundos.
+D.- 06 minutos y 45 segundos.
+39.- Construyendo un triangulo de velocidades, encuentre el ángulo de corrección de viento, rumbo verdadero y velocidad terrestre, dados: Viento: 300 grados/45 nudos; Curso verdadero: 100 grados; Velocidad aérea: 150 nudos.
+a
+A.- 6 grados izquierda - 094 grados - 191 nudos.
+B.- 6 grados izquierda - 094 grados - 180 nudos.
+C.- 6 grados derecha - 106 grados - 190 nudos.
+D.- 6 grados derecha - 106 grados - 195 nudos.
+40.- Construyendo un triangulo de velocidades, encuentre el ángulo de corrección de viento, rumbo verdadero y velocidad terrestre, dados: Viento: 220 grados/ 30 nudos; Curso verdadero: 260 grados; Velocidad aérea verdadera: 150 nudos.
+d
+A.- 07 grados derecha - 252 grados - 120 nudos.
+B.- 07 grados derecha - 268 grados 120 nudos.
+C.- 07 grados izquierda - 268 grados - 127 nudos.
+D.- 07 grados izquierda - 253 grados - 126 nudos.
+41.- Construyendo un triangulo de velocidades, encuentre el ángulo de corrección de viento, rumbo verdadero y velocidad terrestre, dados: Viento: 200 grados/40 nudos; Curso verdadero: 130 grados; Velocidad aérea: 120 nudos.
+c
+A.- 18 grados derecha - 111 grados - 100 nudos.
+B.- 18 grados izquierda - 111 grados - 90 nudos.
+C.- 18 grados derecha - 148 grados - 100 nudos.
+D.- 18 grados izquierda - 148 grados - 90 nudos.
+42.- Volar sobre la capa de nubes no encierra peligro de ningún tipo para un piloto VFR que no tenga habilitación instrumentos.
+b
+A.- VERDADERO.
+B.- FALSO.
+43.- Al utilizar una carta aeronáutica debe:
+d
+A.- Escoger puntos de verificación apropiados a lo largo de la ruta y demarcarlos de alguna forma.
+B.- Verificar las áreas a cada lado de la ruta planificada en relación a zonas peligrosas, Restringidas o prohibidas.
+C.- Verificar la ruta en cuanto a terrenos particularmente escabrosos, de manera de evitarlos.
+D.- Todas las anteriores son verdaderas.
+44.- Encuentre la velocidad en millas estatutas por hora de 26 nudos.
+d
+A.- 46 MPH.
+B.- 23 MPH.
+C.- 27 MPH.
+D.- 30 MPH.
+45.- Encuentre la velocidad en millas estatutas por hora de 39 nudos.
+c
+A.- 55 MPH.
+B.- 40 MPH.
+C.- 45 MPH.
+D.- 35 MPH.
+46.- Encuentre la velocidad en millas estatutas por hora de 45 nudos.
+c
+A.- 55 MPH.
+B.- 50 MPH.
+C.- 52 MPH.
+D.- 54 MPH.
+47.- Encuentre la velocidad en millas estatutas de 40 nudos.
+a
+A.- 46 MPH.
+B.- 48 MPH.
+C.- 50 MPH.
+D.- 52 MPH.
+48.- En las cartas aeronáuticas la información de cifras de elevación máxima (CEM), cada un cuadrángulo de un grado (1 grado) de latitud y longitud, contiene un valor impreso en color azul, que representa la altitud mínima de sobrevuelo dentro del mismo, para mantener un adecuado margen de seguridad.
+a
+A.- VERDADERO.
+B.- FALSO.
+49.- La dirección hacia la cual apunta la nariz del avión durante el vuelo cuando se mide en grados en el sentido de los punteros del reloj desde el norte verdadero es:
+b
+A.- Curso Verdadero (TC).
+B.- Rumbo verdadero (TH).
+C.- Rumbo magnético (MH).
+D.- Desviación (DEV).
+50.- La dirección medida con referencia a un meridiano o norte verdadero es la dirección de intención del vuelo medida en grados, en sentido de los punteros del reloj, desde el norte verdadero y se denomina:
+a
+A.- Curso verdadero (TC).
+B.- Rumbo verdadero (TH).
+C.- Rumbo magnético (MH).
+D.- Desviación (DEV).
+51.- La dirección hacia la cual se orienta la nariz del avión durante el vuelo se denomina:
+c
+A.- Curso.
+B.- Trayectoria.
+C.- Rumbo.
+D.- Orientación.
+52.- El recorrido real sobre el terreno efectuado en el vuelo se denomina:
+b
+A.- Curso.
+B.- Trayectoria.
+C.- Rumbo.
+D.- Orientación.
+53.- La razón de avance en vuelo del avión con respecto a la tierra, se denomina.
+c
+A.- Velocidad aérea verdadera.
+B.- Velocidad aérea calibrada.
+C.- Velocidad terrestre.
+D.- Velocidad aérea indicada.
+54.- Los cursos o radiales proyectados desde un VOR, están orientados en referencia al:
+c
+A.- Norte verdadero.
+B.- Norte.
+C.- Norte magnético.
+D.- Ninguna de las anteriores.
+55.- Una línea de orientación magnética que se extiende hacia afuera desde la estación VOR, se denomina:
+c
+A.- Curso.
+B.- Rumbo.
+C.- Radial.
+D.- Trayectoria.
+56.- Todos los radiofaros transmiten un código de identificación continuo en alfabeto Morse de una, dos o tres letras.
+a
+A.- VERDADERO.
+B.- FALSO.
+57.- El ángulo formado por una línea dibujada desde el avión al norte magnético y una línea dibujada desde el avión hasta la estación se denomina:
+d
+A.- Orientación relativa.
+B.- Orientación general.
+C.- Trayectoria.
+D.- Orientación magnética.
+58.- Aunque UD. no tenga habilitación para vuelo por instrumentos, puede volar con toda seguridad "VFR sobre la capa" y el "VFR especial" pues este tipo de vuelo no presenta complicación alguna para su capacidad de "piloto VFR".
+b
+A.- VERDADERO.
+B.- FALSO.
+59.- La Parte del "AIP Chile" Volumen I que contiene todo lo relacionado con Autoridad , Direcciones, Organización, sumario de reglamentos se denomina:
+d
+A.- Reglamentos del Aire y Servicios de Tránsito Aéreo.
+B.- Parte 1 Facilitación.
+C.- Parte 1 En Ruta
+D.- Parte 1 Generalidades.
+60.- En un radar la distancia se determina midiendo el tiempo que demora la onda de radio en ir al objeto y volver a la antena receptora.
+a
+A.- VERDADERO.
+B.- FALSO.
+61.- Un piloto debe recordar que una aeronave a altitudes bajas no será vista si esta apantallada por cerros o bajo el haz de radar debido ala curvatura de la tierra.
+a
+A.- VERDADERO.
+B.- FALSO.
+62.- Las señales corresponden a las ayudas visuales materializadas con pintura sobre la superficie de las pistas pavimentadas. Se utiliza pintura color ................. en las pistas y color .............. en las calles de rodaje.
+c
+A.- Blanco-Blanco.
+B.- Amarillo-Blanco.
+C.- Blanco - Amarillo.
+D.- Amarillo - Amarillo.
+63.- Líneas ubicadas formando 45 grados respecto al eje de la pista señalan
+d
+A.- Cierre de pista de aterrizaje o rodaje.
+B.- Zona de toma de contacto.
+C.- Distancia fija.
+D.- zona de parada.
+64.- Cuando Ud. está rodando hacia una pista y/o cuando ingresa ella, Ud. observa que hay una gran "X" de por lo menos 6 metros sobre la pista. ¿Esto significa qué?
+a
+A.- Es una señal de cierre de pista.
+B.- Es una señal de punto de verificación del VOR.
+C.- Señal de zona parada.
+D.- Ninguna de las anteriores es correcta.
+65.- Viajando a una velocidad terrestre de 240 nudos, ¿cuántas millas náuticas UD. volará en 45 segundos?
+d
+A.- 5 NM.
+B.- 4 NM.
+C.- 7 NM.
+D.- 3 NM.
+66.- La velocidad terrestre es de 160 nudos, la distancia a volar es 4,5 millas náuticas cuantos segundos se demorará para cubrir esta distancia?
+b
+A.- 110 segundos.
+B.- 101 segundos.
+C.- 10 segundos.
+D.- 17 segundos.
+67.- UD. ha recorrido 6 NM en 45 segundos, cual es su velocidad terrestre?
+c
+A.- 408 nudos.
+B.- 420 nudos.
+C.- 480 nudos.
+D.- 402 nudos.
+68.- Si Ud., vuela 165 NM en 29 minutos, ¿cuántos minutos demorará para viajar 131 NM?
+b
+A.- 21 minutos.
+B.- 23 minutos.
+C.- 25 minutos.
+D.- 32 minutos.
+69.- Si Ud. ha volado 205 NM en 46 minutos, ¿cuántos minutos le tomará volar 123 NM a la misma velocidad?
+b
+A.- 25 minutos.
+B.- 27 minutos.
+C.- 29 minutos.
+D.- 31 minutos.
+70.- Su avión tiene una capacidad de 250 GAL de combustible, volando con un flujo de 32 GAL/HORA. ¿Cuántas horas puede volar sin reserva?
+a
+A.- 07 horas con 50 minutos.
+B.- 08 horas.
+C.- 06 horas con 50 minutos.
+D.- 07 horas.
+71.- Su avión tiene una capacidad de 360 GAL. de combustible, volando con un flujo de 45 GAL/hora, ¿cuántas horas puede volar, dejando 30 GAL de combustible de reserva?
+b
+A.- 06 horas 30 minutos.
+B.- 07 horas 20 minutos.
+C.- 06 horas 20 minutos.
+D.- 07 horas 30 minutos.
+72.- Su velocidad terrestre es de 160 nudos, el consumo horario de combustible es de 65 LBS/hora, capacidad total de combustible del avión 350 lbs. Cuanto combustible necesita para volar 500 NM?.
+d
+A.- 180 LBS.
+B.- 120 LBS.
+C.- 110 LBS.
+D.- 203 LBS.
+73.- Su velocidad terrestre es de 140 nudos, el consumo horario es de 45 LBS/hora, la capacidad total de combustible del avión es de 220 LBS. ¿Cuánto combustible necesita para volar 450 NM y cuál es el tiempo total de vuelo considerando el combustible total y dejando 25 LBS. de reserva?
+d
+A.- 146 LBS. - 05 horas.
+B.- 156 LBS. - 04 horas y 20 minutos.
+C.- 156 LBS. - 05 horas.
+D.- 146 LBS. - 04 horas y 20 minutos.
+74.- La Publicación de Información Aeronáutica de Chile (AIP-CHILE Volumen I) está conformada por ....... partes.
+c
+A.- Una.
+B.- Dos.
+C.- Tres.
+D.- Cuatro.
+75.- Dados los siguientes datos: Altitud de Presión 25.000 pies; Temperatura - 40 grados C; C.A.S. 300 KT. Determinar velocidad aérea verdadera.
+a
+A.- 427 KT.
+B.- 440 KT.
+C.- 450 KT.
+D.- 410 KT.
+76.- Encuentre el ángulo de corrección (WCA) rumbo verdadero (TH) y la velocidad terrestre (GS) dados los siguientes datos. Velocidad aérea verdadera (TAS) 120 KTS. Curso verdadero (TC) 015 grados. Dirección y velocidad viento 140 grados / 25 Kts.
+c
+A.- 5 L, 010 grados, 115 KTS.
+B.- 5 R, 020 grados, 133 KTS.
+C.- 10 R, 025 grados, 133 KTS.
+D.- 8 L, 007 grados, 121 KTS.
+77.- Dado los siguientes datos: Distancia 7 NM; Tiempo 4 minutos. Determinar: Velocidad terrestre por hora.
+d
+A.- 10.5 KT.
+B.- 630 KT.
+C.- 530 KT.
+D.- 105 KT.
+78.- Dado los siguientes datos: Velocidad terrestre 140 KT.; Distancia 21 NM. Determinar Tiempo.
+c
+A.- 05 minutos.
+B.- 02 minutos.
+C.- 09 minutos.
+D.- 15 minutos.
+79.- Dados los siguientes datos: Altitud de Presión 35.000 pies; Temperatura -25 grados C.; C.A.S. 375 KT. Determinar velocidad aérea verdadera.
+b
+A.- 550 KT.
+B.- 651 KT.
+C.- 710 KT.
+D.- 600 KT.
+80.- En la mayor parte del territorio de Chile, para convertir el curso o rumbo verdadero en curso o rumbo magnético, observa la variación que es ................ y ............
+c
+A.- Este Sume.
+B.- Weste Reste.
+C.- Este Reste.
+D.- Weste Sume.
+81.- Un radiofaro omnidireccional es una estación en tierra de transmisión en radio de muy alta frecuencia (VHF) que proyecta cursos en línea recta (radiales) en todas las direcciones desde la estación.
+a
+A.- VERDADERO.
+B.- FALSO.
+82.- Las estaciones "NDB" (Radiofaro no direccional), normalmente operan en una banda de frecuencia baja o mediana de:
+d
+A.- 600 A 850 KHZ.
+B.- 108.0 a 117.95 MHZ.
+C.- 100 A 195 KHZ.
+D.- 200 a 415 KHZ.
+83.- Los radiofaros no direccionales tienen una ventaja sobre el VOR, esta es:
+c
+A.- No existe ventaja alguna.
+B.- Son más confiables para aproximaciones por instrumentos.
+C.- Las frecuencias bajas o medias no son afectadas por la línea visión.
+D.- Ninguna de las anteriores.
+84.- Como "Regla Práctica", podemos decir que cuando la superficie esta justo visible sobre la nariz del avión, la visibilidad hacia adelante será aproximadamente una (1) milla estatuta por cada mil (1.000) pies de altitud.
+a
+A.- VERDADERO.
+B.- FALSO.
