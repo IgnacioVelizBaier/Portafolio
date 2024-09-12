@@ -1,0 +1,1 @@
+Mobile application in APK format. Shortened version of application requested by client: Checklist of procedures to be carried out by the Aircraft Pilot (according to current regulations) transformed into mobile application format.
