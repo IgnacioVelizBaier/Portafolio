@@ -269,6 +269,7 @@ p {/*texto común entre los headers*/
 .techs{
     margin-top: -10px;
     height: 300px;
+    padding-right: 50px;
 }
 
 .flexdis1{
