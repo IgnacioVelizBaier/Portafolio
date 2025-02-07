@@ -80,6 +80,15 @@ z-index: 100;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 1); /* Agrega una sombra al texto */
 }
 
+.titlecontact{/*Títulos*/
+    text-align: center;
+    font-size:60px;
+    font-weight:00;
+    text-transform: uppercase;
+    color: #900000;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 1); /* Agrega una sombra al texto */
+}
+
 .title1{/*Títulos*/
     margin-top:50px;
     margin-right: 340px;
@@ -105,7 +114,7 @@ z-index: 100;
 }
 
 .title3{
-    margin-top: 300px;
+    margin-top: 900px;
     font-size:60px;
     font-weight:0;
     text-transform: uppercase;
@@ -114,7 +123,17 @@ z-index: 100;
 }
 
 .title4{
-    margin-top: 400px;
+    margin-top: 100px;
+    font-size:60px;
+    font-weight:0;
+    letter-spacing: 0px;
+    text-transform: uppercase;
+    color: #900000;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 1); /* Agrega una sombra al texto */
+}
+
+.title5{
+    margin-top: 0px;
     font-size:60px;
     font-weight:0;
     letter-spacing: 0px;
@@ -141,7 +160,7 @@ p {/*texto común entre los headers*/
     padding-left: 3.5rem;/*offset de la izquierda y derecha respectivamente*/
     padding-right: 3.5rem;
     border-radius: 10rem;/*redondez del botón*/
-    background: #d2d2d2;
+    background: #bebebe;
     display: flex;/*cómo se muestra el ícono y el texto*/
     align-items: center;/*cómo se muestra el ícono y el texto*/
     justify-content: center;/*Hacia dónde tenderán a ir los elementos*/
@@ -198,11 +217,43 @@ p {/*texto común entre los headers*/
     align-items: center;
 }
 
+.contentcontact{
+    height: 60vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.contentpricebottom{
+    height: 60vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.contentabout{
+    height: 60vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.content1{
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
 .sau{/*Bloque que contiene h2 productos y boxes*/
     padding: 0px;
     background: #252525;
     margin-top: 0px;/*Permite ajustar esta sección de modo que las cajas atraviesen secciones de 2 colores de background distintos entre sí*/
-    padding-bottom: 150px; /* Utilizamos relleno en lugar de margen */
+    padding-bottom: 900px; /* Utilizamos relleno en lugar de margen */
 }
 
 .box-container{
@@ -220,6 +271,7 @@ p {/*texto común entre los headers*/
     border-radius: Iren;
     box-shadow: 0 .3ren Sren rgba(0,0,0, .5);
     margin: 2rem;
+    padding-top: 15px;
 }
 
 .box-container .box h3{/*título de las cajas*/
@@ -235,7 +287,7 @@ p {/*texto común entre los headers*/
 .about{
     background: #171717;
     padding: 80px;
-    padding-bottom: 300px /* Utilizamos relleno en lugar de margen */
+    padding-bottom: 200px /* Utilizamos relleno en lugar de margen */
 }
 
 .flextext{
@@ -254,7 +306,7 @@ p {/*texto común entre los headers*/
 }
 
 .AboutMe{
-    margin-top: -100px;
+    margin-top: 0px;
     margin-left: 150px; /* Espacio entre la imagen y el texto */
     width: auto;
     height: 400px;
@@ -263,11 +315,11 @@ p {/*texto común entre los headers*/
 .tech{
     background: #252525;
     padding: 0px;
-    padding-bottom: 350px
+    padding-bottom: 0px
 }
 
 .techs{
-    margin-top: -10px;
+    margin-top: -100px;
     height: 300px;
     padding-right: 50px;
 }
@@ -303,6 +355,8 @@ p {/*texto común entre los headers*/
     width: 20px; /* Ajusta el tamaño de la imagen según sea necesario */
     height: auto;
 }
+
+
 
 @media (max-width: 740px) {/* Optimización para moviles*/
     .head {
@@ -340,8 +394,17 @@ p {/*texto común entre los headers*/
     }
     .title{/*Títulos*/
         margin-bottom:100px;
-        padding-right:0px;
-        font-size:100px;
+        padding-left:30px;
+        font-size:60px;
+        font-weight:0;
+        text-transform: uppercase;
+        color: #900000;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 1); /* Agrega una sombra al texto */
+    }
+    .titlecontact{/*Títulos*/
+        margin-bottom:50px;
+        text-align: center;
+        font-size:60px;
         font-weight:0;
         text-transform: uppercase;
         color: #900000;
@@ -349,7 +412,7 @@ p {/*texto común entre los headers*/
     }
     
     .title1{/*Títulos*/
-        margin-right: 210px;
+        margin-right: 190px;
         margin-bottom: 0px;
         font-size:40px;
         font-weight:500;
@@ -361,9 +424,9 @@ p {/*texto común entre los headers*/
     }
     
     .title2{/*Títulos*/
-        margin-left: 150px;
+        margin-left: 180px;
         margin-top: -100px;
-        font-size:0px;
+        font-size:30px;
         font-weight:300;
         text-transform:capitalize;
         text-align: left;
@@ -374,8 +437,8 @@ p {/*texto común entre los headers*/
     
     .title3{
         margin-right:0px;
-        margin-top: 400px;
-        font-size:60px;
+        margin-top: 1200px;
+        font-size:40px;
         font-weight:00;
         text-transform: uppercase;
         color: #900000;
@@ -383,10 +446,20 @@ p {/*texto común entre los headers*/
     }
     
     .title4{
-        margin-top: 950px;
-        margin-right: 30px;
+        margin-top: -100px;
+        margin-right: 10px;
         letter-spacing: 0px;
-        font-size:20px;
+        font-size:40px;
+        font-weight:0;
+        text-transform: uppercase;
+        color: #900000;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 1); /* Agrega una sombra al texto */
+    }
+    .title5{
+        margin-top: 0px;
+        margin-bottom: 40px;
+        letter-spacing: 0px;
+        font-size:40px;
         font-weight:0;
         text-transform: uppercase;
         color: #900000;
@@ -453,7 +526,38 @@ p {/*texto común entre los headers*/
     }
     
     .content{
-        height: 60vh;
+        height: 270vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .contentpricebottom{
+        height: 50vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .contentabout{
+        height: 130vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .contentcontact{
+        height: 80vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .content1{
+        height: 100vh;
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -465,7 +569,7 @@ p {/*texto común entre los headers*/
         background: #252525;
         padding-left: 0px;
         margin-top: 0px;/*Permite ajustar esta sección de modo que las cajas atraviesen secciones de 2 colores de background distintos entre sí*/
-        padding-bottom: 150px /* Utilizamos relleno en lugar de margen */
+        padding-bottom: 1200px /* Utilizamos relleno en lugar de margen */
     }
     
     .proy{
@@ -488,7 +592,7 @@ p {/*texto común entre los headers*/
     
     .box-container .box{
         height: 28rem;
-        width: 20rem;/*Distancias horizontal entre los boxes*/
+        width: 19rem;/*Distancias horizontal entre los boxes*/
         padding-right: 50px;
         background: #101010;
         text-align: center;
@@ -496,6 +600,7 @@ p {/*texto común entre los headers*/
         box-shadow: 0 .3ren Sren rgba(0,0,0, .5);
         margin: 2rem;
         margin-right: -35px;
+        padding-top: 15px;
     }
     
     .box-container .box h3{/*título de las cajas*/
@@ -517,16 +622,21 @@ p {/*texto común entre los headers*/
     
     .about{        
         background: #171717;
-        padding-bottom: 700px /* Utilizamos relleno en lugar de margen */
+        padding-bottom: 0px /* Utilizamos relleno en lugar de margen */
     }
     
     .flextext{
         text-align: center;
-        margin-right:180px !important;
+        padding-top:0px;
+        padding-left:15px;
+        padding-right:15px;
+        margin-bottom:0px;
+        margin-left: 0px;
+        margin-right: 0px;
     }
     
     .flexdis{
-        margin-top: 80px;
+        margin-top: 0px;
         margin-left: 0px;
         display: block; 
         line-height: 2; /* Puedes ajustar este valor según tus necesidades */
@@ -535,13 +645,17 @@ p {/*texto común entre los headers*/
     .AboutMe{
         margin-left: 10px !important;
         width: auto;
-        height: 400px;
+        height: 300px;
+    }
+
+    .zodiac{
+        padding-left: 70px;
     }
     
     .tech{
         background: #252525;
-        margin-top: -200px;
-        padding-bottom: 550px;;
+        padding-top: 0px;
+        padding-bottom: 0px;;
     }
     
     .flextext1{
@@ -556,7 +670,7 @@ p {/*texto común entre los headers*/
 
     .techs{
         margin-left: -60px;
-        margin-top: -10px;
+        margin-top: 0px;
         height: 200px !important;
     }
     
@@ -593,105 +707,4 @@ p {/*texto común entre los headers*/
     }
 }
 
-@media (max-width: 1410px) {/* Optimización para computador modo ventana*/
-    .title {/* Optimiza el imput para diferentes selectores de clase*/
-        padding-left: 100;
-        font-size: 40px;
-        font-size:60px;
-        font-weight:0;
-        text-transform: uppercase;
-        color: #900000;
-        text-shadow: 2px 2px 4px rgba(0, 0, 0, 1); /* Agrega una sombra al texto */
-    }
 
-    .title1 {/* Optimiza el imput para diferentes selectores de clase*/
-        margin-bottom: 0;
-        font-size: 40px;
-    }
-
-    .title2 {/* Optimiza el imput para diferentes selectores de clase*/
-        margin-bottom: 0;
-        font-size: 30px;
-        margin-right: 120px;
-    }
-
-    .title3 {/* Optimiza el imput para diferentes selectores de clase*/
-        margin-bottom: 0;
-        font-size: 40px;
-    }
-
-    .title4 {/* Optimiza el imput para diferentes selectores de clase*/
-        margin-bottom: 0;
-        font-size: 40px;
-    }
-
-    .box-container{
-        padding-top: 0px;
-        font-size: 20px;
-    }
-
-    .container_btn--proyectos{
-        font-size: 15px;
-    }
-
-    .content{  
-        /*height: 450vh;*/
-        padding-top: 0px;
-        font-size: 1px;/*OJO*/
-    }
-
-    .sau{
-        background: #252525;
-        margin-top: 0px;/*Permite ajustar esta sección de modo que las cajas atraviesen secciones de 2 colores de background distintos entre sí*/
-        padding-top: 0px;
-        padding-bottom: 250px;
-        height: 1600px;
-    }
-    /*.navbar{
-        display: none;
-        border: 4px solid red;
-    }*/
-
-    .about{
-        padding-top: 0px;
-        margin-bottom: 0px;
-        width: 100%; /* Asegúrate de que el ancho esté definido */
-        height: 600px;/*seteo manual de largo */
-        box-sizing: border-box;/* SE DESPLIEGA MEJOR EN PANTALLA Para incluir padding y border en el ancho total */
-    }
-
-    .flextext {
-        font-size: 20px;   
-        text-align: center;
-        padding-left: 0px; /* Puedes ajustar esto si es necesario */
-        padding-right: 0px;
-        margin-left: 0px;
-        margin-right: 80px;
-        line-height: 1.2;
-        width: 100%; /* Ancho, puede causar estrechamiento de bloques de texto y background de secciones */
-        box-sizing: border-box; /* Para incluir padding y border en el ancho total */
-    }
-
-    .AboutMe{
-        margin-top: -10px;
-        margin-left: -70px;
-        height: 300px;
-    }
-
-    .flextext1 {
-        font-size: 20px;   
-        text-align: center;
-        padding-left: 0px; /* Puedes ajustar esto si es necesario */
-        padding-right: 0px;
-        margin-left: 50px;
-        margin-right: -60px;
-        padding-top:30px;
-        line-height: 1.2;
-        width: 100%; /* Ancho, puede causar estrechamiento de bloques de texto y background de secciones */
-        box-sizing: border-box; /* Para incluir padding y border en el ancho total */
-    }
-    .techs{
-        margin-top: -10px;
-        height: 300px;
-    }
-}
